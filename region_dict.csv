@@ -1,0 +1,3070 @@
+Hong Kong,,Hong Kong,HK
+Yunnan,Yunnan,China,CN
+Guangdong,Guangdong,China,CN
+Singapore,South West,Singapore,SG
+Shanghai,Shanghai,China,CN
+Beijing,Beijing,China,CN
+Zhejiang,Zhejiang,China,CN
+Jiangsu,Jiangsu,China,CN
+Shandong,Shandong,China,CN
+Fujian,Fujian,China,CN
+Aichi Prefecture,Aichi,Japan,JP
+Liaoning,Liaoning,China,CN
+Tokyo,Tokyo,Japan,JP
+Hubei,Hubei,China,CN
+Kanagawa Prefecture,Kanagawa,Japan,JP
+Tianjin,Tianjin,China,CN
+Sichuan,Sichuan,China,CN
+Seoul,Seoul,"Korea, South",KR
+New South Wales,New South Wales,Ashmore and Cartier Islands,AU
+Western Australia,Western Australia,Ashmore and Cartier Islands,AU
+Shaanxi,Shaanxi,China,CN
+Victoria,Victoria,Ashmore and Cartier Islands,AU
+Queensland,Queensland,Ashmore and Cartier Islands,AU
+Saitama Prefecture,Saitama,Japan,JP
+Guangxi,Guangxi,China,CN
+Chongqing,Chongqing,China,CN
+Chiba Prefecture,Chiba,Japan,JP
+Shizuoka Prefecture,Shizuoka,Japan,JP
+Hebei,Hebei,China,CN
+Gifu Prefecture,Gifu,Japan,JP
+Okinawa Prefecture,Okinawa,Japan,JP
+Hunan,Hunan,China,CN
+Jiangxi,Jiangxi,China,CN
+Jilin,Jilin,China,CN
+Henan,Henan,China,CN
+Hiroshima Prefecture,Hiroshima,Japan,JP
+Anhui,Anhui,China,CN
+Ibaraki Prefecture,Ibaraki,Japan,JP
+Gyeonggi-do,Gyeonggi,"Korea, South",KR
+Heilongjiang,Heilongjiang,China,CN
+Gunma Prefecture,Gunma,Japan,JP
+Fukuoka Prefecture,Fukuoka,Japan,JP
+South Australia,South Australia,Ashmore and Cartier Islands,AU
+Tochigi Prefecture,Tochigi,Japan,JP
+Mie Prefecture,Mie,Japan,JP
+Hainan,Hainan,China,CN
+Nordrhein-Westfalen,Nordrhein-Westfalen,Germany,DE
+Nagano Prefecture,Nagano,Japan,JP
+Gyeongsangnam-do,South Gyeongsang,"Korea, South",KR
+Nagasaki Prefecture,Nagasaki,Japan,JP
+Inner Mongolia,Inner Mongol,China,CN
+Bayern,Bayern,Germany,DE
+Guizhou,Guizhou,China,CN
+Shanxi,Shanxi,China,CN
+Fukushima Prefecture,Fukushima,Japan,JP
+Daegu,Daegu,"Korea, South",KR
+Gyeongsangbuk-do,North Gyeongsang,"Korea, South",KR
+Baden-Württemberg,Baden-Württemberg,Germany,DE
+Yamaguchi Prefecture,Yamaguchi,Japan,JP
+Shiga Prefecture,Shiga,Japan,JP
+Okayama Prefecture,Okayama,Japan,JP
+Gansu,Gansu,China,CN
+Incheon,Incheon,"Korea, South",KR
+Miyagi Prefecture,Miyagi,Japan,JP
+Niigata Prefecture,Niigata,Japan,JP
+Busan,Busan,"Korea, South",KR
+Aomori Prefecture,Aomori,Japan,JP
+Niedersachsen,Niedersachsen,Germany,DE
+Hessen,Hessen,Germany,DE
+Ehime Prefecture,Ehime,Japan,JP
+Kagawa Prefecture,Kagawa,Japan,JP
+Hamburg,Hamburg,Germany,DE
+Chungcheongnam-do,South Chungcheong,"Korea, South",KR
+Toyama Prefecture,Toyama,Japan,JP
+Kumamoto Prefecture,Kumamoto,Japan,JP
+Yamanashi Prefecture,Yamanashi,Japan,JP
+Ulsan,Ulsan,"Korea, South",KR
+Gwangju,Gwangju,"Korea, South",KR
+Iwate Prefecture,Iwate,Japan,JP
+Northern Territory,Northern Territory,Ashmore and Cartier Islands,AU
+Kagoshima Prefecture,Kagoshima,Japan,JP
+Taipei,New Taipei City,Taiwan,TW
+Taoyuan City,Taoyuan,Taiwan,TW
+Kaohsiung,Kaohsiung City,Taiwan,TW
+Taichung,Taichung City,Taiwan,TW
+New Taipei City,New Taipei City,Taiwan,TW
+Tainan,Tainan City,Taiwan,TW
+Hualien,Hualien,Taiwan,TW
+Yunlin,Yunlin,Taiwan,TW
+Hsinchu City,Hsinchu City,Taiwan,TW
+Changhua,Changhua,Taiwan,TW
+Miaoli,Miaoli,Taiwan,TW
+Xinjiang,Xinjiang,China,CN
+Pingtung,Pingtung,Taiwan,TW
+Tibet Autonomous Region,Xizang,China,CN
+Ningxia,Ningxia,China,CN
+Karnataka,Karnataka,India,IN
+West Bengal,West Bengal,India,IN
+Tamil Nadu,Tamil Nadu,India,IN
+Gujarat,Gujarat,India,IN
+Maharashtra,Maharashtra,India,IN
+Uttar Pradesh,Uttar Pradesh,India,IN
+Kerala,Kerala,India,IN
+Punjab region,Punjab,India,IN
+Punjab,Punjab,Pakistan,PK
+Assam,Assam,India,IN
+Telangana,,India,IN
+Andhra Pradesh,Andhra Pradesh,India,IN
+Odisha,Orissa,India,IN
+Delhi,Delhi,India,IN
+Rajasthan,Rajasthan,India,IN
+Jammu and Kashmir,Jammu and Kashmir,India,IN
+Madhya Pradesh,Madhya Pradesh,India,IN
+Bihar,Bihar,India,IN
+Haryana,Haryana,India,IN
+Ulan Bator,Ulaanbaatar,Mongolia,MN
+Jharkhand,Jharkhand,India,IN
+Uttarakhand,Uttaranchal,India,IN
+Himachal Pradesh,Himachal Pradesh,India,IN
+Chhattisgarh,Chhattisgarh,India,IN
+Vientiane Province,Vientiane,Laos,LA
+Kuala Lumpur,Kuala Lumpur,Malaysia,MY
+Manipur,Manipur,India,IN
+Tripura,Tripura,India,IN
+Johor,Johor,Malaysia,MY
+Selangor,Selangor,Malaysia,MY
+Chandigarh,Chandigarh,India,IN
+Metro Manila,Manila,Philippines,PH
+Calabarzon,,Philippines,PH
+Central Luzon,,Philippines,PH
+Puducherry,Puducherry,India,IN
+California,California,United States,US
+Pahang,Pahang,Malaysia,MY
+Goa,Goa,India,IN
+Sikkim,Sikkim,India,IN
+Nagaland,Nagaland,India,IN
+Arunachal Pradesh,Arunachal Pradesh,India,IN
+Texas,Texas,United States,US
+Sabah,Sabah,Malaysia,MY
+Dadra and Nagar Haveli,Dadra and Nagar Haveli,India,IN
+New York,New York,United States,US
+Île-de-France,,France,FR
+Ilocos Region,Ilocos Sur,Philippines,PH
+Perak,Perak,Malaysia,MY
+Ontario,Ontario,Canada,CA
+Central Visayas,,Philippines,PH
+Sarawak,Sarawak,Malaysia,MY
+Kelantan,Kelantan,Malaysia,MY
+Florida,Florida,United States,US
+Western Visayas,,Philippines,PH
+Mizoram,Mizoram,India,IN
+Negeri Sembilan,Negeri Sembilan,Malaysia,MY
+Illinois,Illinois,United States,US
+Davao Region,Davao,Philippines,PH
+Kedah,Kedah,Malaysia,MY
+Malacca,Melaka,Malaysia,MY
+Ilhas,Kepulauan Riau,Indonesia,ID
+Washington,Washington,United States,US
+Virginia,Virginia,United States,US
+Michigan,Michigan,United States,US
+New Jersey,New Jersey,United States,US
+Terengganu,Trengganu,Malaysia,MY
+Pennsylvania,Pennsylvania,United States,US
+Cagayan Valley,,Philippines,PH
+Ohio,Ohio,United States,US
+Georgia,Georgia,United States,US
+Arizona,Arizona,United States,US
+Bicol Region,,Philippines,PH
+Savannakhet Province,Savannakhét,Laos,LA
+Jakarta,Jakarta Raya,Indonesia,ID
+North Carolina,North Carolina,United States,US
+Cordillera Administrative Region,,Philippines,PH
+Xiangkhouang Province,Xiangkhoang,Laos,LA
+Daman and Diu,Daman and Diu,India,IN
+Massachusetts,Massachusetts,United States,US
+Alberta,Alberta,Canada,CA
+Minnesota,Minnesota,United States,US
+British Columbia,British Columbia,Canada,CA
+Meghalaya,Meghalaya,India,IN
+Tennessee,Tennessee,United States,US
+Northern Mindanao,,Philippines,PH
+Soccsksargen,,Philippines,PH
+Zamboanga Peninsula,Zamboanga,Philippines,PH
+West Java,Jawa Barat,Indonesia,ID
+Maryland,Maryland,Liberia,LR
+Selenge Province,Selenge,Mongolia,MN
+Champasak Province,Champasak,Laos,LA
+East Java,Jawa Timur,Indonesia,ID
+Missouri,Missouri,United States,US
+Bulgan Province,Bulgan,Mongolia,MN
+Luang Prabang Province,Louangphrabang,Laos,LA
+Batangas City,Batangas,Philippines,PH
+Indiana,Indiana,United States,US
+Oregon,Oregon,United States,US
+Quebec,Québec,Canada,CA
+Central Java,Jawa Tengah,Indonesia,ID
+North Sumatra,Sumatera Utara,Indonesia,ID
+Rizal,Rizal,Philippines,PH
+Riau Islands Province,,Indonesia,ID
+Colorado,Colorado,United States,US
+Bolikhamsai Province,Bolikhamxai,Laos,LA
+Mimaropa,,Philippines,PH
+Rheinland-Pfalz,Rheinland-Pfalz,Germany,DE
+Bali,Bali,Indonesia,ID
+Wisconsin,Wisconsin,United States,US
+Nevada,Nevada,United States,US
+Kiev,Kiev,Ukraine,UA
+Vientiane Prefecture,Vientiane [prefecture],Laos,LA
+Eastern Visayas,,Philippines,PH
+Berlin,Berlin,Germany,DE
+Connecticut,Connecticut,United States,US
+Ömnögovi Province,Ömnögovi,Mongolia,MN
+South Carolina,South Carolina,United States,US
+Khentii Province,Hentiy,Mongolia,MN
+Khammouane Province,Khammouan,Laos,LA
+Dornogovi Province,Dornogovi,Mongolia,MN
+Penang,Pulau Pinang,Malaysia,MY
+Provence-Alpes-Côte d'Azur,,France,FR
+Caraga,,Philippines,PH
+Nebraska,Nebraska,United States,US
+Alabama,Alabama,United States,US
+Oklahoma,Oklahoma,United States,US
+Louisiana,Louisiana,United States,US
+Utah,Utah,United States,US
+Sainyabuli Province,Xaignabouri,Laos,LA
+Bokeo Province,Bokeo,Laos,LA
+Kentucky,Kentucky,United States,US
+Kansas,Kansas,United States,US
+Oudomxay Province,Oudômxai,Laos,LA
+Manitoba,Manitoba,Canada,CA
+Bayan-Ölgii Province,Bayan-Ölgiy,Mongolia,MN
+Iowa,Iowa,United States,US
+Luang Namtha Province,Louang Namtha,Laos,LA
+Labuan,Labuan,Malaysia,MY
+Sachsen,Sachsen,Germany,DE
+Rhône-Alpes,,France,FR
+Khovd Province,Hovd,Mongolia,MN
+Mississippi,Mississippi,United States,US
+Lviv Oblast,L'viv,Ukraine,UA
+Dornod Province,Dornod,Mongolia,MN
+Riau,Riau,Indonesia,ID
+Arkansas,Arkansas,United States,US
+West Kalimantan,,Indonesia,ID
+South Sulawesi,Sulawesi Selatan,Indonesia,ID
+Banten,Banten,Indonesia,ID
+New Mexico,New Mexico,United States,US
+Övörkhangai Province,Övörhangay,Mongolia,MN
+Saskatchewan,Saskatchewan,Canada,CA
+Zavkhan Province,Dzavhan,Mongolia,MN
+Sükhbaatar Province,Sühbaatar,Mongolia,MN
+Hawaii,Hawaii,United States,US
+West Nusa Tenggara,Nusa Tenggara Barat,Indonesia,ID
+Töv Province,Töv,Mongolia,MN
+Houaphanh Province,Houaphan,Laos,LA
+Idaho,Idaho,United States,US
+Nord-Pas-de-Calais,,France,FR
+North Sulawesi,Sulawesi Utara,Indonesia,ID
+District of Columbia,District of Columbia,United States,US
+Kharkiv Oblast,Kharkiv,Ukraine,UA
+Khövsgöl Province,Hövsgöl,Mongolia,MN
+Salavan Province,Saravan,Laos,LA
+Bayankhongor Province,Bayanhongor,Mongolia,MN
+Ternopil Oblast,Ternopil',Ukraine,UA
+Perlis,Perlis,Malaysia,MY
+Attapeu Province,Attapu,Laos,LA
+Ivano-Frankivsk Oblast,Ivano-Frankivs'k,Ukraine,UA
+Govi-Altai Province,Govi-Altay,Mongolia,MN
+Arkhangai Province,Arhangay,Mongolia,MN
+East Kalimantan,Kalimantan Timur,Indonesia,ID
+Alsace,,France,FR
+Dnipropetrovsk Oblast,Dnipropetrovs'k,Ukraine,UA
+Odessa Oblast,Odessa,Ukraine,UA
+South Kalimantan,,Indonesia,ID
+South Sumatra,Sumatera Selatan,Indonesia,ID
+Phnom Penh,Phnom Penh,Cambodia,KH
+Bangkok,Bangkok Metropolis,Thailand,TH
+Hanoi,Ha Noi,Vietnam,VN
+Chiang Mai,Chiang Mai,Thailand,TH
+Siem Reap Province,Siemréab,Cambodia,KH
+Chon Buri,Chon Buri,Thailand,TH
+Thanh Hóa Province,Thanh Hóa,Vietnam,VN
+Samut Prakan,Samut Prakan,Thailand,TH
+Nonthaburi,Nonthaburi,Thailand,TH
+Sindh,Sind,Pakistan,PK
+Nakhon Ratchasima,Nakhon Ratchasima,Thailand,TH
+Chiang Rai,Chiang Rai,Thailand,TH
+Khyber Pakhtunkhwa,K.P.,Pakistan,PK
+Udon Thani,Udon Thani,Thailand,TH
+Rayong,Rayong,Thailand,TH
+Banteay Meanchey Province,Bântéay Méanchey,Cambodia,KH
+Buriram,Buri Ram,Thailand,TH
+Samut Sakhon,Samut Sakhon,Thailand,TH
+Pathum Thani,Pathum Thani,Thailand,TH
+Battambang Province,Batdâmbâng,Cambodia,KH
+Nakhon Phanom,Nakhon Phanom,Thailand,TH
+Phuket,Phuket,Thailand,TH
+Surat Thani,Surat Thani,Thailand,TH
+Ratchaburi,Ratchaburi,Thailand,TH
+Sisaket,Si Sa Ket,Thailand,TH
+Lamphun,Lamphun,Thailand,TH
+Maha Sarakham,Maha Sarakham,Thailand,TH
+Phetchabun,Phetchabun,Thailand,TH
+Khon Kaen,Khon Kaen,Thailand,TH
+Roi Et,Roi Et,Thailand,TH
+Kampong Cham Province,Kâmpóng Cham,Cambodia,KH
+Tak,Tak,Thailand,TH
+Phrae,Phrae,Thailand,TH
+Sakon Nakhon,Sakon Nakhon,Thailand,TH
+Saraburi,Saraburi,Thailand,TH
+Prey Veng Province,Prey Vêng,Cambodia,KH
+Kanchanaburi,Kanchanaburi,Thailand,TH
+Surin,Surin,Thailand,TH
+Chachoengsao,Chachoengsao,Thailand,TH
+Chaiyaphum,Chaiyaphum,Thailand,TH
+Lampang,Lampang,Thailand,TH
+Songkhla,Songkhla,Thailand,TH
+Tuyên Quang Province,Tuyên Quang,Vietnam,VN
+Nakhon Pathom,Nakhon Pathom,Thailand,TH
+Kandal Province,Kândal,Cambodia,KH
+Takéo Province,Takêv,Cambodia,KH
+An Giang Province,An Giang,Vietnam,VN
+Thái Nguyên Province,Thái Nguyên,Vietnam,VN
+Kampot Province,Kâmpôt,Cambodia,KH
+Nong Khai,Nong Khai,Thailand,TH
+Kalasin,Kalasin,Thailand,TH
+Kiên Giang Province,Kiên Giang,Vietnam,VN
+Phayao,Phayao,Thailand,TH
+Kampong Chhnang Province,Kâmpóng Chhnang,Cambodia,KH
+Kampong Thom Province,Kâmpóng Thum,Cambodia,KH
+Nan,Nan,Thailand,TH
+Thái Bình Province,Thái Bình,Vietnam,VN
+Balochistan,Baluchistan,Pakistan,PK
+Nakhon Sawan,Nakhon Sawan,Thailand,TH
+Ang Thong,Ang Thong,Thailand,TH
+Pattani,Pattani,Thailand,TH
+Hà Giang Province,Hà Giang,Vietnam,VN
+Phitsanulok,Phitsanulok,Thailand,TH
+Ishikawa Prefecture,Ishikawa,Japan,JP
+Yasothon,Yasothon,Thailand,TH
+Prachuap Khiri Khan,Prachuap Khiri Khan,Thailand,TH
+Ubon Ratchathani,Ubon Ratchathani,Thailand,TH
+Phichit,Phichit,Thailand,TH
+Tây Ninh Province,Tây Ninh,Vietnam,VN
+Hòa Bình Province,Hòa Bình,Vietnam,VN
+Svay Rieng Province,Svay Rieng,Cambodia,KH
+Narathiwat,Narathiwat,Thailand,TH
+Hà Nam Province,Hà Nam,Vietnam,VN
+Cà Mau Province,Cà Mau,Vietnam,VN
+Sihanoukville Province,Krong Preah Sihanouk,Cambodia,KH
+Prachin Buri,Prachin Buri,Thailand,TH
+Phetchaburi,Phetchaburi,Thailand,TH
+Yên Bái Province,Yên Bái,Vietnam,VN
+Oddar Meanchey Province,Otdar Mean Chey,Cambodia,KH
+Sukhothai,Sukhothai,Thailand,TH
+Chanthaburi,Chanthaburi,Thailand,TH
+Ayutthaya,Phra Nakhon Si Ayutthaya,Thailand,TH
+Mae Hong Son,Mae Hong Son,Thailand,TH
+Chai Nat,Chai Nat,Thailand,TH
+Long An Province,Long An,Vietnam,VN
+Sing Buri,Sing Buri,Thailand,TH
+Yala Province,Yala,Thailand,TH
+Kon Tum Province,Kon Tum,Vietnam,VN
+Chumphon,Chumphon,Thailand,TH
+Khánh Hòa Province,Khánh Hòa,Vietnam,VN
+Lào Cai Province,Lào Cai,Vietnam,VN
+Suphan Buri,Suphan Buri,Thailand,TH
+Krabi,Krabi,Thailand,TH
+Ninh Bình Province,Ninh Bình,Vietnam,VN
+Amnat Charoen,Amnat Charoen,Thailand,TH
+Phú Yên Province,Phú Yên,Vietnam,VN
+Gia Lai Province,Gia Lai,Vietnam,VN
+Trà Vinh Province,Trà Vinh,Vietnam,VN
+Kamphaeng Phet,Kamphaeng Phet,Thailand,TH
+Lop Buri,Lop Buri,Thailand,TH
+Nakhon Si Thammarat,Nakhon Si Thammarat,Thailand,TH
+Tokushima Prefecture,Tokushima,Japan,JP
+Nong Bua Lam Phu,Nong Bua Lam Phu,Thailand,TH
+Ranong,Ranong,Thailand,TH
+Tbong Khmum Province,,Cambodia,KH
+Mondulkiri Province,Môndól Kiri,Cambodia,KH
+Kratié Province,Krâchéh,Cambodia,KH
+Koh Kong Province,Kaôh Kong,Cambodia,KH
+Sa Kaeo,Sa Kaeo,Thailand,TH
+Nakhon Nayok,Nakhon Nayok,Thailand,TH
+Mukdahan,Mukdahan,Thailand,TH
+Trat,Trat,Thailand,TH
+Islamabad Capital Territory,F.C.T.,Pakistan,PK
+Bueng Kan,Bueng Kan,Thailand,TH
+Lampung,Lampung,Indonesia,ID
+Bengkulu,Bengkulu,Indonesia,ID
+Jambi,Jambi,Indonesia,ID
+West Sumatra,Sumatera Barat,Indonesia,ID
+Algiers Province,Alger,Algeria,DZ
+Central Sulawesi,Sulawesi Tengah,Indonesia,ID
+Special Region of Yogyakarta,,Indonesia,ID
+Central Kalimantan,,Indonesia,ID
+East Nusa Tenggara,Nusa Tenggara Timur,Indonesia,ID
+Southeast Sulawesi,Sulawesi Tenggara,Indonesia,ID
+Skikda Province,Skikda,Algeria,DZ
+Gorontalo,Gorontalo,Indonesia,ID
+Aceh,Aceh,Indonesia,ID
+Oran Province,Free State,South Africa,ZA
+Papua,Papua,Indonesia,ID
+West Sulawesi,Sulawesi Barat,Indonesia,ID
+Tébessa Province,Tébessa,Algeria,DZ
+Maluku,Maluku,Indonesia,ID
+Batna Province,Batna,Algeria,DZ
+West Papua,Papua Barat,Indonesia,ID
+Tizi Ouzou Province,Tizi Ouzou,Algeria,DZ
+Sétif Province,Sétif,Algeria,DZ
+Annaba Province,Annaba,Algeria,DZ
+Constantine Province,Constantine,Algeria,DZ
+Béjaïa Province,Béjaïa,Algeria,DZ
+Blida Province,Blida,Algeria,DZ
+North Kalimantan,,Indonesia,ID
+North Maluku,Maluku Utara,Indonesia,ID
+Chlef Province,Chlef,Algeria,DZ
+Tiaret Province,Tiaret,Algeria,DZ
+Médéa Province,Médéa,Algeria,DZ
+Mila Province,Mila,Algeria,DZ
+Djelfa Province,Djelfa,Algeria,DZ
+Bordj Bou Arréridj Province,Bordj Bou Arréridj,Algeria,DZ
+Guelma Province,Guelma,Algeria,DZ
+Biskra Province,Biskra,Algeria,DZ
+Tlemcen Province,Tlemcen,Algeria,DZ
+Mostaganem Province,Mostaganem,Algeria,DZ
+Aïn Defla Province,Aïn Defla,Algeria,DZ
+Oum El Bouaghi Province,Oum el Bouaghi,Algeria,DZ
+Boumerdès Province,Boumerdès,Algeria,DZ
+Gilgit-Baltistan,Northern Areas,Pakistan,PK
+Greater Accra Region,Greater Accra,Ghana,GH
+Khenchela Province,Khenchela,Algeria,DZ
+Relizane Province,Relizane,Algeria,DZ
+Souk Ahras Province,Souk Ahras,Algeria,DZ
+El Oued Province,El Oued,Algeria,DZ
+Sidi Bel Abbès Province,Sidi Bel Abbès,Algeria,DZ
+Aïn Témouchent Province,Aïn Témouchent,Algeria,DZ
+Tipaza Province,Tipaza,Algeria,DZ
+Jijel Province,Jijel,Algeria,DZ
+Ouargla Province,Ouargla,Algeria,DZ
+Laghouat Province,Laghouat,Algeria,DZ
+M'Sila Province,M'Sila,Algeria,DZ
+Ashanti Region,Ashanti,Ghana,GH
+Béchar Province,Béchar,Algeria,DZ
+Phatthalung,Phatthalung,Thailand,TH
+Lai Châu Province,Lai Chau,Vietnam,VN
+El Bayadh Province,El Bayadh,Algeria,DZ
+Tissemsilt Province,Tissemsilt,Algeria,DZ
+Bouïra Province,Bouira,Algeria,DZ
+Wakayama Prefecture,Wakayama,Japan,JP
+Pursat Province,Pouthisat,Cambodia,KH
+Adrar Province,Adrar,Algeria,DZ
+Tindouf Province,Tindouf,Algeria,DZ
+Nara Prefecture,Nara,Japan,JP
+Tangier-Tetouan,Tanger - Tétouan,Morocco,MA
+Istanbul Province,Istanbul,Turkey,TR
+Antalya Province,Antalya,Turkey,TR
+Oriental,Oriental,Morocco,MA
+Boquerón department,,Paraguay,PY
+Souss-Massa-Drâa,Souss - Massa - Draâ,Morocco,MA
+Kasserine Governorate,Kassérine,Tunisia,TN
+Tunis Governorate,Tunis,Tunisia,TN
+Fès-Boulemane,Fès - Boulemane,Morocco,MA
+Marrakesh-Tensift-El Haouz,Marrakech - Tensift - Al Haouz,Morocco,MA
+Grand Casablanca,Grand Casablanca,Morocco,MA
+Medenine Governorate,Médenine,Tunisia,TN
+Rabat-Salé-Zemmour-Zaer,Rabat - Salé - Zemmour - Zaer,Morocco,MA
+Central Serbia,,Serbia,RS
+Meknès-Tafilalet,Meknès - Tafilalet,Morocco,MA
+Nabeul Governorate,Nabeul,Tunisia,TN
+Sousse Governorate,Sousse,Tunisia,TN
+Monastir Governorate,Monastir,Tunisia,TN
+Federation of Bosnia and Herzegovina,Zenica-Doboj,Bosnia and Herzegovina,BA
+Gharb-Chrarda-Béni Hssen,Gharb - Chrarda - Béni Hssen,Morocco,MA
+Vojvodina,,Serbia,RS
+Ankara Province,Ankara,Turkey,TR
+Sfax,Sfax,Tunisia,TN
+Tadla-Azilal,Tadla - Azilal,Morocco,MA
+Mascara Province,Mascara,Algeria,DZ
+Chaouia-Ouardigha,Chaouia - Ouardigha,Morocco,MA
+Jendouba Governorate,Jendouba,Tunisia,TN
+Doukkala-Abda,Doukkala - Abda,Morocco,MA
+Mahdia Governorate,Mahdia,Tunisia,TN
+Central Department,Central,Paraguay,PY
+Bizerte Governorate,Bizerte,Tunisia,TN
+Taza-Al Hoceima-Taounate,Taza - Al Hoceima - Taounate,Morocco,MA
+Gabès Governorate,Gabès,Tunisia,TN
+Republika Srpska,,Bosnia and Herzegovina,BA
+Guairá Department,Guairá,Paraguay,PY
+Kairouan Governorate,Kairouan,Tunisia,TN
+Ben Arous Governorate,Ben Arous (Tunis Sud),Tunisia,TN
+Cordillera Department,Cordillera,Paraguay,PY
+Gafsa Governorate,Gafsa,Tunisia,TN
+Konya Province,Konya,Turkey,TR
+El Taref Province,El Tarf,Algeria,DZ
+Mersin Province,Mersin,Turkey,TR
+Ariana Governorate,,Tunisia,TN
+Saïda Province,Saïda,Algeria,DZ
+Ghardaïa Province,Ghardaïa,Algeria,DZ
+Kebili Governorate,Kebili,Tunisia,TN
+Bursa Province,Bursa,Turkey,TR
+Asunción,Asunción,Paraguay,PY
+Adana Province,Adana,Turkey,TR
+Laâyoune-Boujdour-Sakia El Hamra,Laâyoune - Boujdour - Sakia El Hamra,Morocco,MA
+Caaguazú Department,Caaguazú,Paraguay,PY
+Naâma Province,Naâma,Algeria,DZ
+Samsun Province,Samsun,Turkey,TR
+Sidi Bouzid Governorate,Sidi Bou Zid,Tunisia,TN
+Itapúa Department,Itapúa,Paraguay,PY
+Kayseri Province,Kayseri,Turkey,TR
+Hatay Province,Hatay,Turkey,TR
+Béja Governorate,Béja,Tunisia,TN
+Gaziantep Province,Gaziantep,Turkey,TR
+Oued Ed-Dahab-Lagouira,,Morocco,MA
+Illizi Province,Illizi,Algeria,DZ
+Manouba Governorate,Manubah,Tunisia,TN
+Tamanrasset Province,Tamanghasset,Algeria,DZ
+Guelmim-Es Semara,Guelmim - Es-Semara,Morocco,MA
+Azad Kashmir,Azad Kashmir,Pakistan,PK
+Alto Paraná Department,Alto Paraná,Paraguay,PY
+Denizli Province,Denizli,Turkey,TR
+Sakarya Province,Sakarya,Turkey,TR
+Kef Governorate,Le Kef,Tunisia,TN
+Aksaray Province,Aksaray,Turkey,TR
+Mardin Province,Mardin,Turkey,TR
+Kocaeli Province,Kocaeli,Turkey,TR
+Manisa Province,Manisa,Turkey,TR
+Trabzon Province,Trabzon,Turkey,TR
+Siliana Governorate,Siliana,Tunisia,TN
+Zaghouan Governorate,Zaghouan,Tunisia,TN
+Ordu Province,Ordu,Turkey,TR
+Presidente Hayes Department,Presidente Hayes,Paraguay,PY
+Sivas Province,Sivas,Turkey,TR
+San Pedro Department,San Pedro,Paraguay,PY
+Isparta Province,Isparta,Turkey,TR
+Kütahya Province,Kütahya,Turkey,TR
+Bolu Province,Bolu,Turkey,TR
+Paraguarí Department,Paraguarí,Paraguay,PY
+Tozeur Governorate,Tozeur,Tunisia,TN
+Tataouine Governorate,Tataouine,Tunisia,TN
+Federally Administered Tribal Areas,F.A.T.A.,Pakistan,PK
+Malatya Province,Malatya,Turkey,TR
+Yalova Province,Yalova,Turkey,TR
+Edirne Province,Edirne,Turkey,TR
+Canindeyú Department,Canindeyú,Paraguay,PY
+Batman Province,Batman,Turkey,TR
+Düzce Province,Düzce,Turkey,TR
+Zonguldak Province,Zinguldak,Turkey,TR
+Amambay Department,Amambay,Paraguay,PY
+Municipality of Centar,Centar Municipality,Macedonia,MK
+Tetovo Municipality,Tetovo,Macedonia,MK
+Kabul Province,Kabul,Afghanistan,AF
+Kumanovo Municipality,Kumanovo,Macedonia,MK
+Gostivar Municipality,Gostivar,Macedonia,MK
+Struga Municipality,Struga,Macedonia,MK
+Tbilisi,Tbilisi,Georgia,GE
+Tirana County,,Albania,AL
+Sulaymaniyah Governorate,As-Sulaymaniyah,Iraq,IQ
+Dhaka Division,Dhaka,Bangladesh,BD
+Bagmati Zone,Bagmati,Nepal,NP
+Erbil Governorate,Arbil,Iraq,IQ
+Luxembourg District,Luxembourg,Belgium,BE
+Muscat Governorate,Muscat,Oman,OM
+Bago Region,Bago,Myanmar,MM
+Dohuk Governorate,Dihok,Iraq,IQ
+Trentino-Alto Adige,Bozen,Italy,IT
+Podgorica Capital City,Podgorica Municipality,Montenegro,ME
+Podgorica Municipality,Podgorica,Montenegro,ME
+Timor-Leste,,Timor-Leste,TL
+Strumica Municipality,Strumitsa,Macedonia,MK
+Cairo Governorate,Al Qahirah,Egypt,EG
+Zagreb,Zagrebacka,Croatia,HR
+Central Macedonia,Kentriki Makedonia,Greece,GR
+Abidjan,,Côte d&#039;Ivoire,CI
+Ohrid Municipality,Ohrid,Macedonia,MK
+Balkh Province,Balkh,Afghanistan,AF
+Yerevan,Erevan,Armenia,AM
+Nineveh Governorate,Ninawa,Iraq,IQ
+Amman Governorate,Amman,Jordan,JO
+South Governorate,South Lebanon,Lebanon,LB
+West Bank,West Bank,Gaza Strip,PS
+Santa Catarina,Santa Catarina,Brazil,BR
+Khomas Region,Khomas,Namibia,NA
+Eastern Macedonia and Thrace,East Macedonia and Thrace,Greece,GR
+East Macedonia and Thrace,Anatoliki Makedonia kai Thraki,Greece,GR
+Baghdad Governorate,Baghdad,Iraq,IQ
+Bamako,Bamako,Mali,ML
+North Western Province,,Sri Lanka,LK
+Yangon,Yangon,Myanmar,MM
+Vienna,Wien,Austria,AT
+Imereti,Imereti,Georgia,GE
+Prilep Municipality,Prilep,Macedonia,MK
+Al Batinah North Governorate,,Oman,OM
+Dar es Salaam,Dar-Es-Salaam,Tanzania,TZ
+Beirut Governorate,Beirut,Lebanon,LB
+Makkah Region,Makkah,Saudi Arabia,SA
+Maritime Region,Maritime,Togo,TG
+Alexandria Governorate,Al Iskandariyah,Egypt,EG
+Western Province,Western,Rwanda,RW
+Sicilia,Trapani,Italy,IT
+Dakahlia Governorate,Ad Daqahliyah,Egypt,EG
+Buenos Aires,Buenos Aires,Argentina,AR
+Tripoli District,,Libya,LY
+Wallonia,,Belgium,BE
+Rio Grande do Sul,Rio Grande do Sul,Brazil,BR
+Littoral Region,Littoral,Cameroon,CM
+Kadiogo,Kadiogo,Burkina Faso,BF
+Split-Dalmatia County,Splitsko-Dalmatinska,Croatia,HR
+Comunidad Valenciana,Castellón,Spain,ES
+Ulcinj Municipality,Ulcinj,Montenegro,ME
+Red Sea Governorate,Al Bahr al Ahmar,Egypt,EG
+Centre Region,Centre,Togo,TG
+Al Sharqia Governorate,Ash Sharqiyah,Egypt,EG
+Al Madinah Region,Al Madinah,Saudi Arabia,SA
+Conakry,Conakry,Guinea,GN
+Analamanga,Analamanga,Madagascar,MG
+Durrës County,Durrës,Albania,AL
+Islas Canarias,,Spain,ES
+Sofia City Province,Grad Sofiya,Bulgaria,BG
+Irbid Governorate,Irbid,Jordan,JO
+Kirkuk Governorate,At-Ta'mim,Iraq,IQ
+Southern Province,Southern,Sierra Leone,SL
+Istria County,Istarska,Croatia,HR
+Nabatieh Governorate,An Nabatiyah,Lebanon,LB
+Primorje-Gorski Kotar County,Primorsko-Goranska,Croatia,HR
+Paraná,Paraná,Brazil,BR
+Luanda Province,Luanda,Angola,AO
+Dhofar Governorate,Dhofar,Oman,OM
+Riyadh Region,Ar Riyad,Saudi Arabia,SA
+Epirus,Ipeiros,Greece,GR
+Pohnpei,Pohnpei,"Micronesia, Federated States of",FM
+Zadar County,Zadarska,Croatia,HR
+Addis Ababa,Oromiya,Ethiopia,ET
+Herat Province,Hirat,Afghanistan,AF
+São Paulo,São Paulo,Brazil,BR
+Budapest,Budapest,Hungary,HU
+Thimphu District,Thimphu,Bhutan,BT
+Kaafu Atoll,Kaafu,Maldives,MV
+Kandahar Province,Kandahar,Afghanistan,AF
+Osijek-Baranja County,Osjecko-Baranjska,Croatia,HR
+Chittagong Division,Chittagong,Bangladesh,BD
+Northern Province,Northern,Sierra Leone,SL
+Shkodër County,Shkodër,Albania,AL
+Attica,Attiki,Greece,GR
+Brod-Posavina County,Brodsko-Posavska,Croatia,HR
+Varna Province,Varna,Bulgaria,BG
+Sibiu County,Sibiu,Romania,RO
+Crete,Kriti,Greece,GR
+Campania,,Italy,IT
+Gharbia Governorate,Al Gharbiyah,Egypt,EG
+Tashkent Region,Tashkent,Uzbekistan,UZ
+North Governorate,North Lebanon,Lebanon,LB
+Kampala District,Kampala,Uganda,UG
+Maputo,Maputo,Mozambique,MZ
+Dakar Region,Dakar,Senegal,SN
+Giza Governorate,Al Jizah,Egypt,EG
+Doha,Ad Dawhah,Qatar,QA
+Baranya County,Baranya,Hungary,HU
+Santa Cruz Department,Santa Cruz,Bolivia,BO
+Ailinglaplap Atoll,,Marshall Islands,MH
+Veles Municipality,Veles,Macedonia,MK
+Somogy County,Somogy,Hungary,HU
+Eastern Province,Eastern,Zambia,ZM
+Qalyubia Governorate,Al Qalyubiyah,Egypt,EG
+Gaza Strip,Gaza Strip,Gaza Strip,PS
+Puglia,Foggia,Italy,IT
+Faro District,Faro,Portugal,PT
+Andalusia,,Spain,ES
+Erongo Region,Erongo,Namibia,NA
+Burgas Province,Burgas,Bulgaria,BG
+Sohag Governorate,Suhaj,Egypt,EG
+Cataluña,Lérida,Spain,ES
+Debar Municipality,Debar,Macedonia,MK
+Banjul,Banjul,"Gambia, The",GM
+Narayani Zone,Narayani,Nepal,NP
+Banaadir,Banaadir,Somalia,SO
+Upper Austria,Oberösterreich,Austria,AT
+Bujumbura,Bujumbura Rural,Burundi,BI
+Thessaly,Thessalia,Greece,GR
+Vukovar-Srijem County,Vukovar-Syrmia County,Croatia,HR
+Vukovar-Syrmia County,Vukovarsko-Srijemska,Croatia,HR
+Beqaa Governorate,Beqaa,Lebanon,LB
+La Paz Department,La Paz,Bolivia,BO
+Lima Region,Cova Lima,Timor-Leste,TL
+Elbasan County,Elbasan,Albania,AL
+Nairobi,Nairobi,Kenya,KE
+Tolna County,Tolna,Hungary,HU
+Adjara,Ajaria,Georgia,GE
+Monufia Governorate,Al Minufiyah,Egypt,EG
+Coast Province,Coast,Kenya,KE
+Fier County,Fier,Albania,AL
+Bijelo Polje Municipality,Bijelo Polje,Montenegro,ME
+Alba County,Alba,Romania,RO
+Alba,Alba,Romania,RO
+Schleswig-Holstein,Schleswig-Holstein,Germany,DE
+Lombardia,Lombardy,Italy,IT
+Lombardy,Varese,Italy,IT
+Luxor Governorate,Luxor,Egypt,EG
+Mandalay,Mandalay,Myanmar,MM
+Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,Georgia,GE
+Diekirch District,Diekirch,Luxembourg,LU
+Lagos State,Lagos,Nigeria,NG
+Lumbini Zone,Lumbini,Nepal,NP
+Woqooyi Galbeed,,Somalia,SO
+Ceará,Ceará,Brazil,BR
+Lower Silesian Voivodeship,Lower Silesian,Poland,PL
+Bar Municipality,Bar,Montenegro,ME
+Puerto Plata province,Puerto Plata Province,Dominican Republic,DO
+Puerto Plata Province,Puerto Plata,Dominican Republic,DO
+Saxony-Anhalt,Sachsen-Anhalt,Germany,DE
+Kavadarci Municipality,Kavadartsi,Macedonia,MK
+Plav Municipality,Plav,Montenegro,ME
+Afyonkarahisar Province,Afyonkarahisar,Turkey,TR
+Sana'a Governorate,,Yemen,YE
+Shan State,Shan,Myanmar,MM
+Thiès Region,Thiès,Senegal,SN
+Satu Mare County,Satu Mare,Romania,RO
+Estuaire Province,Estuaire,Gabon,GA
+Western Macedonia,West Macedonia Region,Greece,GR
+West Macedonia Region,Dytiki Makedonia,Greece,GR
+Karlovac County,Karlovacka,Croatia,HR
+Lower Austria,Niederösterreich,Austria,AT
+Zala County,Zala,Hungary,HU
+Balearic Islands,Baleares,Spain,ES
+Stara Zagora Province,Stara Zagora,Bulgaria,BG
+Distrito Nacional,Distrito Nacional,Dominican Republic,DO
+Ash Sharqiyah North Governorate,Ash Sharqiyah North,Oman,OM
+Plovdiv Province,Plovdiv,Bulgaria,BG
+Sagaing,Sagaing,Myanmar,MM
+Lusaka Province,Lusaka,Zambia,ZM
+Ciudad Autónoma de Buenos Aires,,Argentina,AR
+Veszprém County,Veszprém,Hungary,HU
+Bács-Kiskun County,Bács-Kiskun,Hungary,HU
+Gandaki Zone,Gandaki,Nepal,NP
+Çorum Province,Çorum,Turkey,TR
+Pernambuco,Pernambuco,Brazil,BR
+Mechi Zone,Mechi,Nepal,NP
+Bissau,Bissau,Guinea-Bissau,GW
+Arad County,Arad,Romania,RO
+Harghita County,Harghita,Romania,RO
+Kaolack Region,Kaffrine,Senegal,SN
+Misiones,Misiones,Argentina,AR
+Central Province,Central,Zambia,ZM
+Benghazi,Benghazi,Libya,LY
+State of Mexico,México,Mexico,MX
+México,México,Mexico,MX
+Western Area,Western,Sierra Leone,SL
+Southern Aegean,,Greece,GR
+Nouakchott,Nouakchott,Mauritania,MR
+Pazardzhik Province,Pazardzhik,Bulgaria,BG
+Vas County,Vas,Hungary,HU
+Guam,Guam,Guam,GU
+Chernivtsi Oblast,Chernivtsi,Ukraine,UA
+Styria,Steiermark,Austria,AT
+Drava Statistical Region,,Slovenia,SI
+Nangarhar Province,Nangarhar,Afghanistan,AF
+Kinshasa,Kinshasa City,"Congo, Democratic Republic of the",CD
+Akmola Region,Aqmola,Kazakhstan,KZ
+Otjozondjupa Region,Otjozondjupa,Namibia,NA
+Calabria,Reggio Calabria,Italy,IT
+Karan State,,Myanmar,MM
+Budva Municipality,Budva,Montenegro,ME
+Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,Germany,DE
+Districts of Republican Subordination,Tadzhikistan Territories,Tajikistan,TJ
+Blagoevgrad Province,Blagoevgrad,Bulgaria,BG
+Ad Dakhiliyah Governorate,Ad Dakhliyah,Oman,OM
+Santa Fe,Santa Fe,Argentina,AR
+Gauteng,Gauteng,South Africa,ZA
+Vinica Municipality,Vinica,Macedonia,MK
+Qena Governorate,Qina,Egypt,EG
+Faiyum Governorate,Al Fayyum,Egypt,EG
+Damietta Governorate,Dumyat,Egypt,EG
+Gabrovo Province,Gabrovo,Bulgaria,BG
+Port Said Governorate,Bur Sa`id,Egypt,EG
+Lisbon District,Lisboa,Portugal,PT
+Thüringen,Thüringen,Germany,DE
+Dobrich Province,Dobrich,Bulgaria,BG
+Zarqa Governorate,Zarqa,Jordan,JO
+Piedmont,Verbano-Cusio-Ossola,Italy,IT
+Kvemo Kartli,Kvemo Kartli,Georgia,GE
+Minas Gerais,Minas Gerais,Brazil,BR
+Kriva Palanka Municipality,Kriva Palanka,Macedonia,MK
+Veneto,,Italy,IT
+Tyrol,Tirol,Austria,AT
+Ouest Department,North-West,Botswana,BW
+Lazio,,Italy,IT
+Magwe,Magway,Myanmar,MM
+Minya Governorate,Al Minya,Egypt,EG
+Saarland,Saarland,Germany,DE
+Braga District,Braga,Portugal,PT
+Mon State,Mon,Myanmar,MM
+Razgrad Province,Razgrad,Bulgaria,BG
+Targovishte Province,Targovishte,Bulgaria,BG
+Distrito Federal,Distrito Federal,Brazil,BR
+Sisak-Moslavina County,Sisacko-Moslavacka,Croatia,HR
+Riga Planning Region,,Latvia,LV
+Viseu District,Viseu,Portugal,PT
+Tsirang District,Chirang,Bhutan,BT
+Brandenburg,Brandenburg,Germany,DE
+Kosi Zone,Bhojpur,Nepal,NP
+Asyut Governorate,Asyut,Egypt,EG
+Flemish Region,Flemish Brabant,Belgium,BE
+Békés County,Békés,Hungary,HU
+Pest County,Pest,Hungary,HU
+Kakheti,Kakheti,Georgia,GE
+Western Cape,Western Cape,South Africa,ZA
+Tuscany,Grosseto,Italy,IT
+Pichincha Province,Pichincha,Ecuador,EC
+Beni Suef Governorate,Bani Suwayf,Egypt,EG
+Porto District,Porto,Portugal,PT
+Covasna County,Covasna,Romania,RO
+Karaman Province,Karaman,Turkey,TR
+Bucharest,Bucharest,Romania,RO
+Chuuk,Chuuk,"Micronesia, Federated States of",FM
+Kwajalein Atoll,,Marshall Islands,MH
+Cluj County,Cluj,Romania,RO
+Rio de Janeiro,Rio de Janeiro,Brazil,BR
+Goiás,Goiás,Brazil,BR
+Opole Voivodeship,Opole,Poland,PL
+Herceg Novi Municipality,Herceg Novi,Montenegro,ME
+Silesian Voivodeship,Silesian,Poland,PL
+Vlorë County,Vlorë,Albania,AL
+Suceava County,Suceava,Romania,RO
+San Salvador Department,San Salvador,El Salvador,SV
+Mount Lebanon Governorate,Mount Lebanon,Lebanon,LB
+Pará,Pará,Brazil,BR
+Tivat Municipality,Tivat,Montenegro,ME
+Chuquisaca Department,Chuquisaca,Bolivia,BO
+Comunidad de Madrid,Madrid,Spain,ES
+Bihor County,Bihor,Romania,RO
+Nitra Region,Nitriansky,Slovakia,SK
+Bjelovar-Bilogora County,Bjelovarsko-bilogorska,Croatia,HR
+Khulna Division,Khulna,Bangladesh,BD
+Sardinia,,Italy,IT
+Almaty Region,Almaty,Kazakhstan,KZ
+Guayas Province,Guayas,Ecuador,EC
+Sinop Province,Sinop,Turkey,TR
+Puebla,Puebla,Mexico,MX
+Far North Region,Extrême-Nord,Cameroon,CM
+Jalisco,Jalisco,Mexico,MX
+Zakarpattia Oblast,Transcarpathia,Ukraine,UA
+Santiago Province,Santiago,Dominican Republic,DO
+Basra Governorate,Al-Basrah,Iraq,IQ
+Western Greece,West Greece Region,Greece,GR
+West Greece Region,Dytiki Ellada,Greece,GR
+Kafr el-Sheikh Governorate,Kafr ash Shaykh,Egypt,EG
+Region of Murcia,Murcia,Spain,ES
+Rakhine State,Rakhine,Myanmar,MM
+Misrata District,Misratah,Libya,LY
+Kigali,Kigali City,Rwanda,RW
+Bishkek,Bishkek,Kyrgyzstan,KG
+Houet,Houet,Burkina Faso,BF
+South-East District,South-East,Botswana,BW
+Korçë County,Korçë,Albania,AL
+Giresun Province,Giresun,Turkey,TR
+Savanes ,Savanes,Togo,TG
+Erzurum Province,Erzurum,Turkey,TR
+Liguria,Genova,Italy,IT
+Phangnga,Phangnga,Thailand,TH
+Cochabamba Department,Cochabamba,Bolivia,BO
+Bas-Sassandra,Bas-Sassandra,Cote d'Ivoire,CI
+Abu Dhabi,Abu Dhabi,United Arab Emirates,AE
+Dibër County,Dibër,Albania,AL
+Lika-Senj County,Licko-Senjska,Croatia,HR
+Arequipa Region,Arequipa,Peru,PE
+Vorarlberg,Vorarlberg,Austria,AT
+Borsod-Abaúj-Zemplén County,Borsod-Abaúj-Zemplén,Hungary,HU
+Fejér County,Fejér,Hungary,HU
+Komárom-Esztergom County,Komárom-Esztergom,Hungary,HU
+Plaines Wilhems District,Plaines Wilhems,Mauritius,MU
+Jász-Nagykun-Szolnok County,Jász-Nagykun-Szolnok,Hungary,HU
+Rangpur Division,Rangpur,Bangladesh,BD
+Sylhet Division,Sylhet,Bangladesh,BD
+North Central Province,,Sri Lanka,LK
+Sabaragamuwa Province,,Sri Lanka,LK
+Halabja Governorate,,Iraq,IQ
+Volyn Oblast,Volyn,Ukraine,UA
+Carinthia,Kärnten,Austria,AT
+Grevenmacher District,Grevenmacher,Luxembourg,LU
+Kano State,Kano,Nigeria,NG
+Beheira Governorate,Al Buhayrah,Egypt,EG
+Virovitica-Podravina County,Viroviticko-Podravska,Croatia,HR
+Ogun State,Ogun,Nigeria,NG
+Nicosia District,Nicosia,Cyprus,CY
+Shida Kartli,Shida Kartli,Georgia,GE
+Lubusz Voivodeship,Lubusz,Poland,PL
+Brunei-Muara District,Brunei and Muara,Brunei,BN
+Zhytomyr Oblast,Zhytomyr,Ukraine,UA
+Brvenica Municipality,Brvenica,Macedonia,MK
+Sumy Oblast,Sumy,Ukraine,UA
+Samtskhe-Javakheti,Samtskhe-Javakheti,Georgia,GE
+Al Buraimi Governorate,Al Buraymi,Oman,OM
+Famagusta District,Famagusta,Cyprus,CY
+Vilnius County,Vilniaus,Lithuania,LT
+Niamey,Niamey,Niger,NE
+Friuli-Venezia Giulia,,Italy,IT
+South Sinai Governorate,Janub Sina',Egypt,EG
+Vallée du Bandama,Vallée du Bandama,Cote d'Ivoire,CI
+Bahia,Bahia,Brazil,BR
+Abruzzo,,Italy,IT
+Mafraq Governorate,Mafraq,Jordan,JO
+Moscow,Moskva,Russia,RU
+Dubai,Dubay,United Arab Emirates,AE
+Peloponnese,Peloponnisos,Greece,GR
+Sveti Nikole Municipality,Sveti Nikole,Macedonia,MK
+Montserrado County,Montserrado,Liberia,LR
+Minsk,Minsk,Belarus,BY
+Csongrád County,Csongrád,Hungary,HU
+Ionian Islands,Ionioi Nisoi,Greece,GR
+Lezhë County,Lezhë,Albania,AL
+Heves County,Heves,Hungary,HU
+Rize Province,Rize,Turkey,TR
+Tunceli Province,Tunceli,Turkey,TR
+Bheri Zone,Bheri,Nepal,NP
+Port Louis District,Port Louis,Mauritius,MU
+Limburg,Limburg,Netherlands,NL
+Suez Governorate,As Suways,Egypt,EG
+Vinnytsia Oblast,Vinnytsya,Ukraine,UA
+'Asir Region,`Asir,Saudi Arabia,SA
+Tamaulipas,Tamaulipas,Mexico,MX
+Smolyan Province,Smolyan,Bulgaria,BG
+Hunedoara County,Hunedoara,Romania,RO
+Sliven Province,Sliven,Bulgaria,BG
+Ruse Province,Ruse,Bulgaria,BG
+Çanakkale Province,Çanakkale,Turkey,TR
+Leiria District,Leiria,Portugal,PT
+Ismailia Governorate,Al Isma`iliyah,Egypt,EG
+Nuqat al Khams,An Nuqat al Khams,Libya,LY
+Orhei District,Orhei,Moldova,MD
+Sassandra-Marahoué District,,Côte d&#039;Ivoire,CI
+Autonomous Region in Muslim Mindanao,,Philippines,PH
+Kaunas County,Kauno,Lithuania,LT
+Burgenland,Burgenland,Austria,AT
+Zawiya District,Az Zawiyah,Libya,LY
+Trnava Region,Trnavský,Slovakia,SK
+Oshana Region,Oshana,Namibia,NA
+Salzburg,Salzburg,Austria,AT
+Zagreb County,Zagrebacka,Croatia,HR
+Lorraine,,France,FR
+Vila Real District,Vila Real,Portugal,PT
+Northern Aegean,,Greece,GR
+Central Greece,Stereá Elláda,Greece,GR
+KwaZulu-Natal,KwaZulu-Natal,South Africa,ZA
+Khost Province,Khost,Afghanistan,AF
+Trashigang District,Tashigang,Bhutan,BT
+Madaba Governorate,Madaba,Jordan,JO
+Beni Department,El Beni,Bolivia,BO
+Equatoria,Eastern Equatoria,South Sudan,SS
+Mato Grosso do Sul,Mato Grosso do Sul,Brazil,BR
+Francisco Morazán Department,Francisco Morazán,Honduras,HN
+Guatemala Department,Guatemala,Guatemala,GT
+Heredia Province,Heredia,Costa Rica,CR
+Ziguinchor Region,Ziguinchor,Senegal,SN
+Oyo State,Oyo,Nigeria,NG
+Espírito Santo,Espírito Santo,Brazil,BR
+Gevgelija Municipality,Gevgelija,Macedonia,MK
+Aveiro District,Aveiro,Portugal,PT
+Kaduna State,Kaduna,Nigeria,NG
+Warmian-Masurian Voivodeship,Warmian-Masurian,Poland,PL
+Greater Poland Voivodeship,Greater Poland,Poland,PL
+Atlantique Department,Atlantique,Benin,BJ
+Littoral Department,Littoral,Benin,BJ
+N'Djamena,Ville de N'Djamena,Chad,TD
+Seti Zone,Seti,Nepal,NP
+Yambol Province,Yambol,Bulgaria,BG
+Kuyavian-Pomeranian Voivodeship,Kuyavian-Pomeranian,Poland,PL
+Emilia-Romagna,,Italy,IT
+Southwest Region,Sud-Ouest,Cameroon,CM
+Valandovo Municipality,Valandovo,Macedonia,MK
+Banská Bystrica Region,Banskobystrický,Slovakia,SK
+Brazzaville,Brazzaville,"Congo, Republic of the",CG
+Kirovohrad Oblast,Kirovohrad,Ukraine,UA
+Yozgat Province,Yozgat,Turkey,TR
+São Vicente,São Vicente,Cape Verde,CV
+Veliko Tarnovo Province,Veliko Tarnovo,Bulgaria,BG
+Sofia Province,Sofia,Bulgaria,BG
+Sughd Region,Leninabad,Tajikistan,TJ
+Bremen,Bremen,Germany,DE
+Boa Vista,Boa Vista,Cape Verde,CV
+Mendoza,Mendoza,Argentina,AR
+Entre Rios,Entre Ríos,Argentina,AR
+Córdoba,Córdoba,Colombia,CO
+Silistra Province,Silistra,Bulgaria,BG
+Kardzhali Province,Kardzhali,Bulgaria,BG
+Chaco,Chaco,Argentina,AR
+Catamarca,Catamarca,Argentina,AR
+Montana Province,Montana,Bulgaria,BG
+Pointe-Noire,Pointe Noire,"Congo, Republic of the",CG
+Najaf Governorate,An-Najaf,Iraq,IQ
+Poltava Oblast,Poltava,Ukraine,UA
+Morelos,Morelos,Mexico,MX
+Shumen Province,Shumen,Bulgaria,BG
+Zaporizhia Oblast,Zaporizhzhya,Ukraine,UA
+Katanga,Katanga,"Congo, Democratic Republic of the",CD
+Madeira,Madeira,Portugal,PT
+Barisal Division,Barisal,Bangladesh,BD
+Port Moresby,National Capital District,Papua New Guinea,PG
+Paphos District,Paphos,Cyprus,CY
+Szabolcs-Szatmár-Bereg County,Szabolcs-Szatmár-Bereg,Hungary,HU
+Savinja Statistical Region,,Slovenia,SI
+Lori Province,Lori,Armenia,AM
+Setúbal District,Setúbal,Portugal,PT
+Ústí nad Labem Region,Ústecký,Czech Republic,CZ
+Tabasco,Tabasco,Mexico,MX
+Shirak Province,Shirak,Armenia,AM
+San Luis,San Luis,Argentina,AR
+Lara,Lara,Venezuela,VE
+Beja District,Beja,Portugal,PT
+Lesser Poland Voivodeship,Lesser Poland,Poland,PL
+Capital District,Distrito Capital,Venezuela,VE
+Janakpur Zone,Janakpur,Nepal,NP
+Podkarpackie Voivodeship,Subcarpathian,Poland,PL
+Azores,Azores,Portugal,PT
+Rift Valley Province,Rift Valley,Kenya,KE
+Aqaba Governorate,Aqaba,Jordan,JO
+Santiago del Estero,Santiago del Estero,Argentina,AR
+Réunion,La Réunion,France,FR
+Dubrovnik-Neretva County,Dubrovacko-Neretvanska,Croatia,HR
+Overijssel,Overijssel,Netherlands,NL
+Kunduz Province,Kunduz,Afghanistan,AF
+Beau Vallon,Beau Vallon,Seychelles,SC
+Pleven Province,Pleven,Bulgaria,BG
+Pernik Province,Pernik,Bulgaria,BG
+Ouémé Department,Ouémé,Benin,BJ
+Ararat Province,Ararat,Armenia,AM
+Bioko Norte Province,Bioko Norte,Equatorial Guinea,GQ
+Demerara-Mahaica,Demerara-Mahaica,Guyana,GY
+Maseru District,Maseru,Lesotho,LS
+South Moravian Region,Jihomoravský,Czech Republic,CZ
+Michoacán de Ocampo,Michoacán,Mexico,MX
+Paraíba,Paraíba,Brazil,BR
+Limpopo,Limpopo,South Africa,ZA
+Maranhão,Maranhão,Brazil,BR
+Kukës County,Kukës,Albania,AL
+West Pomeranian Voivodeship,West Pomeranian,Poland,PL
+Al-Qassim Province,Al Quassim,Saudi Arabia,SA
+San Pedro de Macorís Province,San Pedro de Macorís,Dominican Republic,DO
+Amazonas,Amazonas,Brazil,BR
+South Kazakhstan Region,South Kazakhstan,Kazakhstan,KZ
+Kachin State,Kachin,Myanmar,MM
+Distrito Especial,,Colombia,CO
+Haskovo Province,Haskovo,Bulgaria,BG
+Harare Province,Harare,Zimbabwe,ZW
+Osmaniye Province,Osmaniye,Turkey,TR
+Irrawaddy,Ayeyarwady,Myanmar,MM
+Bilecik Province,Bilecik,Turkey,TR
+Adamawa Region,Adamawa,Nigeria,NG
+La Romana Province,La Romana,Dominican Republic,DO
+Galicia,Orense,Spain,ES
+Santiago,Santiago,Dominican Republic,DO
+Upper Carniola Statistical Region,,Slovenia,SI
+Neuquén,Neuquén,Argentina,AR
+Rapti Zone,Rapti,Nepal,NP
+Aragón,Huesca,Spain,ES
+Tongatapu,Tongatapu,Tonga,TO
+Saint Petersburg,City of St. Petersburg,Russia,RU
+Castilla-La Mancha,Albacete,Spain,ES
+North Region,Nord,Cameroon,CM
+Tokat Province,Tokat,Turkey,TR
+Berat County,Berat,Albania,AL
+Hadhramaut Governorate,Hadramawt,Yemen,YE
+Upper East Region,Upper East,Ghana,GH
+Alif Alif Atoll,Alifu Alifu,Maldives,MV
+Caazapá Department,Caazapá,Paraguay,PY
+Marche,Pesaro e Urbino,Italy,IT
+Tearce Municipality,Tearce,Macedonia,MK
+Aswan Governorate,Aswan,Egypt,EG
+Donetsk Oblast,Donets'k,Ukraine,UA
+Chernihiv Oblast,Chernihiv,Ukraine,UA
+Resen,Resen,Macedonia,MK
+Babil Governorate,Babylon Governorate,Iraq,IQ
+Babylon Governorate,Babil,Iraq,IQ
+Ad Dhahirah Governorate,Al Dhahira,Oman,OM
+Ungheni District,Ungheni,Moldova,MD
+Lipkovo Municipality,Lipkovo,Macedonia,MK
+New Valley Governorate,Al Wadi at Jadid,Egypt,EG
+Managua Department,Managua,Nicaragua,NI
+Cerro Largo Department,Cerro Largo,Uruguay,UY
+North Sinai Governorate,Shamal Sina',Egypt,EG
+Guanacaste Province,Guanacaste,Costa Rica,CR
+Karbala Governorate,Karbala',Iraq,IQ
+Alajuela Province,Alajuela,Costa Rica,CR
+Grand Port District,Grand Port,Mauritius,MU
+Samarqand Region,Samarkand,Uzbekistan,UZ
+Baja California,Baja California,Mexico,MX
+Bogovinje Municipality,Bogovinje,Macedonia,MK
+Kep Province,Kep,Cambodia,KH
+El Seibo Province,El Seybo,Dominican Republic,DO
+Muthanna Governorate,Al-Muthannia,Iraq,IQ
+Vidin Province,Vidin,Bulgaria,BG
+La Vega Province,La Vega,Dominican Republic,DO
+Zanzibar Urban,Zanzibar West,Tanzania,TZ
+Harju County,Harju,Estonia,EE
+Western Region ,Western Sahara,Western Sahara,EH
+Balqa Governorate,Balqa,Jordan,JO
+Anenii Noi District,Anenii Noi,Moldova,MD
+Preah Vihear Province,Preah Vihéar,Cambodia,KH
+Puno Region,Puno,Peru,PE
+Olt County,Olt,Romania,RO
+Vâlcea County,Vâlcea,Romania,RO
+Chukha District,Chhukha,Bhutan,BT
+Central Division,Central,Fiji,FJ
+Atyrau Region,Atyrau,Kazakhstan,KZ
+Dire Dawa,Dire Dawa,Ethiopia,ET
+Southern Nations,"Southern Nations, Nationalities and Peoples",Ethiopia,ET
+Flacq District,Flacq,Mauritius,MU
+Veracruz,Veracruz,Mexico,MX
+Bumthang District,Bumthang,Bhutan,BT
+Prahova County,Prahova,Romania,RO
+Osh Region,Osh,Kyrgyzstan,KG
+Tafilah Governorate,Tafilah,Jordan,JO
+Ghazni Province,Ghazni,Afghanistan,AF
+Farwaniya Governorate,Al Farwaniyah Governorate,Kuwait,KW
+Al Farwaniyah Governorate,Al Farwaniyah,Kuwait,KW
+Gôh-Djiboua District,,Côte d&#039;Ivoire,CI
+Alagoas,Alagoas,Brazil,BR
+Karak Governorate,Karak,Jordan,JO
+Limassol District,Limassol,Cyprus,CY
+Bolivar,Bolívar,Venezuela,VE
+Aragua,Aragua,Venezuela,VE
+Miranda,Miranda,Venezuela,VE
+Nueva Esparta,Nueva Esparta,Venezuela,VE
+Napo Province,Napo,Ecuador,EC
+Sucre,Sucre,Colombia,CO
+Kherson Oblast,Kherson,Ukraine,UA
+Corrientes,Corrientes,Argentina,AR
+Coimbra District,Coimbra,Portugal,PT
+Diyala Governorate,Diyala,Iraq,IQ
+Los Ríos Region,Los Ríos,Chile,CL
+La Pampa,La Pampa,Argentina,AR
+Larnaca District,Larnaca,Cyprus,CY
+Chubut,Chubut,Argentina,AR
+San Juan,San Juan,Argentina,AR
+Cundinamarca,Cundinamarca,Colombia,CO
+Rivne Oblast,Rivne,Ukraine,UA
+Schellenberg,Schellenberg,Liechtenstein,LI
+Évora District,Évora,Portugal,PT
+Umbria,,Italy,IT
+Triesen,Triesen,Liechtenstein,LI
+Viana do Castelo District,Viana do Castelo,Portugal,PT
+Ibb Governorate,Ibb,Yemen,YE
+Nyanza Province,Nyanza,Kenya,KE
+North Brabant,Noord-Brabant,Netherlands,NL
+Ajloun Governorate,Ajlun,Jordan,JO
+Aden Governorate,'Adan Governorate,Yemen,YE
+'Adan Governorate,`Adan,Yemen,YE
+Northern Mariana Islands,Northern Islands,Northern Mariana Islands,MP
+Luapula Province,Luapula,Zambia,ZM
+Anzoátegui,Anzoátegui,Venezuela,VE
+Northern Region,Northern,Ghana,GH
+Eastern Region,Austurland,Iceland,IS
+Rivière du Rempart District,Rivière du Rempart,Mauritius,MU
+Nógrád County,Nógrád,Hungary,HU
+Flevoland,Flevoland,Netherlands,NL
+Nuevo León,Nuevo León,Mexico,MX
+Rajshahi Division,Rajshahi,Bangladesh,BD
+Tucuman,Tucumán,Argentina,AR
+Central Region,Central,Ghana,GH
+Antioquia,Antioquia,Colombia,CO
+Paysandú Department,Paysandú,Uruguay,UY
+Karlovy Vary Region,Karlovarský,Czech Republic,CZ
+Mato Grosso,Mato Grosso,Brazil,BR
+Liberec Region,Liberecký,Czech Republic,CZ
+Dhawalagiri Zone,Dhawalagiri,Nepal,NP
+Atsimo-Andrefana,Atsimo-Andrefana,Madagascar,MG
+Huambo Province,Huambo,Angola,AO
+Pomeranian Voivodeship,Pomeranian,Poland,PL
+Bratislava Region,Bratislavský,Slovakia,SK
+Bari,Bari,Somalia,SO
+Gomel Region,Gomel,Belarus,BY
+Masovian Voivodeship,Masovian,Poland,PL
+Gjirokastër County,Gjirokastër,Albania,AL
+Vitebsk Region,Vitebsk,Belarus,BY
+Basilicata,,Italy,IT
+Gros-Islet,Gros Islet,Saint Lucia,LC
+Shaviyani Atoll,Shaviyani,Maldives,MV
+Kédougou Region,Kédougou,Senegal,SN
+Guanajuato,Guanajuato,Mexico,MX
+Granada Department,Granada,Nicaragua,NI
+Kwara State,Kwara,Nigeria,NG
+Principality of Asturias,,Spain,ES
+Bingöl Province,Bingöl,Turkey,TR
+Edo State,Edo,Nigeria,NG
+Dolj County,Dolj,Romania,RO
+Guria,Guria,Georgia,GE
+San José Province,San José,Costa Rica,CR
+East Region ,Kalimantan Timur,Indonesia,ID
+Abia State,Abia,Nigeria,NG
+Enugu State,Enugu,Nigeria,NG
+Plateau State,Plateau,Nigeria,NG
+Erzincan Province,Erzincan,Turkey,TR
+Al Jawf Region,Al Jawf,Saudi Arabia,SA
+Giurgiu County,Giurgiu,Romania,RO
+Ha'il Region,Ha'il,Saudi Arabia,SA
+Parwan Province,Parwan,Afghanistan,AF
+Coahuila de Zaragoza,Coahuila,Mexico,MX
+Gaafu Alif Atoll,Gaafu Alifu,Maldives,MV
+Kastamonu Province,Kastamonu,Turkey,TR
+Central District ,HaMerkaz,Israel,IL
+Zou Department,Zou,Benin,BJ
+Potosí Department,Potosí,Bolivia,BO
+Sarpang District,Geylegphug,Bhutan,BT
+Paro District,Paro,Bhutan,BT
+Old Royal Capital Cetinje,,Montenegro,ME
+Lublin Voivodeship,Lublin,Poland,PL
+Ancash Region,Áncash,Peru,PE
+Djibouti ,Djibouti,Djibouti,DJ
+Vratsa Province,Vratsa,Bulgaria,BG
+Curaçao,Curaçao,Curacao,CW
+Nampula Province,Nampula,Mozambique,MZ
+Krapina-Zagorje County,Krapinsko-Zagorska,Croatia,HR
+Hradec Králové Region,Královéhradecký,Czech Republic,CZ
+West Region,Ouest,Cameroon,CM
+Berovo Municipality,Berovo,Macedonia,MK
+Aiwo District,Aiwo,Nauru,NR
+Puntarenas Province,Puntarenas,Costa Rica,CR
+Eastern Cape,Eastern Cape,South Africa,ZA
+Kyustendil Province,Kyustendil,Bulgaria,BG
+São Tomé Island,,Sao Tome and Principe,ST
+Falcón,Falcón,Venezuela,VE
+Huehuetenango Department,Huehuetenango,Guatemala,GT
+Tierra del Fuego,Tierra del Fuego,Argentina,AR
+"Bonaire, Sint Eustatius and Saba",,"Bonaire, Sint Eustatius and Saba",BQ
+Prague,Prague,Czech Republic,CZ
+Lovech Province,Lovech,Bulgaria,BG
+Dhi Qar Governorate,Dhi-Qar,Iraq,IQ
+Central Slovenia Statistical Region,,Slovenia,SI
+Najran Region,Najran,Saudi Arabia,SA
+Quetzaltenango Department,Quezaltenango,Guatemala,GT
+Monagas,Monagas,Venezuela,VE
+Zulia,Zulia,Venezuela,VE
+Mérida,Mérida,Venezuela,VE
+Mpumalanga,Mpumalanga,South Africa,ZA
+Río Negro,Río Negro,Argentina,AR
+Zlín Region,Zlínský,Czech Republic,CZ
+Brong-Ahafo Region,Brong Ahafo,Ghana,GH
+Loei,Loei,Thailand,TH
+Nugal,Nugaal,Somalia,SO
+Sanaag,,Somalia,SO
+Vargas,Vargas,Venezuela,VE
+Mura Statistical Region,,Slovenia,SI
+Carinthia Statistical Region,,Slovenia,SI
+Tabuk Region,Tabuk,Saudi Arabia,SA
+Lower Sava Statistical Region,,Slovenia,SI
+Moravian-Silesian Region,Moravskoslezský,Czech Republic,CZ
+Oruro Department,Oruro,Bolivia,BO
+Aargau,Aargau,Switzerland,CH
+Tlaxcala,Tlaxcala,Mexico,MX
+Vaud,Vaud,Switzerland,CH
+Schwyz,Schwyz,Switzerland,CH
+Canton of St. Gallen,Sankt Gallen,Switzerland,CH
+Nord-Kivu,Nord-Kivu,"Congo, Democratic Republic of the",CD
+Sud-Kivu,Sud-Kivu,"Congo, Democratic Republic of the",CD
+Bern,Bern,Switzerland,CH
+Western Province ,Western Sahara,Western Sahara,EH
+San Luis Potosi,San Luis Potosí,Mexico,MX
+Halland County,Halland,Sweden,SE
+Madang Province,Madang,Papua New Guinea,PG
+País Vasco,Gipuzkoa,Spain,ES
+Morobe Province,Morobe,Papua New Guinea,PG
+Castilla y Leon,,Spain,ES
+Amasya Province,Amasya,Turkey,TR
+City of San Marino,,San Marino,SM
+Punakha District,Punakha,Bhutan,BT
+Zhemgang District,Shemgang,Bhutan,BT
+Wangdue Phodrang District,Wangdi Phodrang,Bhutan,BT
+Samdrup Jongkhar District,Samdrup Jongkhar,Bhutan,BT
+Matagalpa Department,Matagalpa,Nicaragua,NI
+Yoro Department,Yoro,Honduras,HN
+Santarém District,Santarém,Portugal,PT
+Atsimo-Atsinanana,Atsimo-Atsinanana,Madagascar,MG
+Boeny,Boeny,Madagascar,MG
+Haute Matsiatra,Haute Matsiatra,Madagascar,MG
+Sava Region,Sava,Madagascar,MG
+Saint-Louis Region,Saint-Louis,Senegal,SN
+Atsinanana,Atsinanana,Madagascar,MG
+Diana Region,Diana,Madagascar,MG
+Vakinankaratra,Vakinankaratra,Madagascar,MG
+Alaotra-Mangoro,Alaotra-Mangoro,Madagascar,MG
+Analanjirofo,Analanjirofo,Madagascar,MG
+Orientale,Orientale,"Congo, Democratic Republic of the",CD
+Sofia Region,Sofia,Madagascar,MG
+Boké Region,Boke,Guinea,GN
+Vatovavy-Fitovinany,Vatovavy-Fitovinany,Madagascar,MG
+Kankan Region,Kankan,Guinea,GN
+Menabe,Menabe,Madagascar,MG
+Montagnes District,Dix-Huit Montagnes,Cote d'Ivoire,CI
+Savanes,Savanes,Togo,TG
+Lacs District,Los Lagos,Chile,CL
+Matam Region,Saint-Louis,Senegal,SN
+Louga Region,Louga,Senegal,SN
+Anosy Region,Anosy,Madagascar,MG
+Lagunes District,Lagunes,Cote d'Ivoire,CI
+Labé Region,Mali,Guinea,GN
+Yamoussoukro,,Côte d&#039;Ivoire,CI
+Kindia Region,Kindia,Guinea,GN
+Comoé District,Comoe,Cote d'Ivoire,CI
+Zanzan,Zanzan,Cote d'Ivoire,CI
+Diourbel Region,Diourbel,Senegal,SN
+Ihorombe,Ihorombe,Madagascar,MG
+Faranah Region,Faranah,Guinea,GN
+Amoron'i Mania,Amoron'i Mania,Madagascar,MG
+Mamou Region,Mamou,Guinea,GN
+Nzérékoré Region,Guéckédou,Guinea,GN
+South Region,Sud,Cameroon,CM
+Fatick Region,Fatick,Senegal,SN
+Tambacounda Region,Tambacounda,Senegal,SN
+Bas-Congo,Bas-Congo,"Congo, Democratic Republic of the",CD
+East Region,Est,Cameroon,CM
+Bongolava,Bongolava,Madagascar,MG
+Sédhiou Region,Sédhiou,Senegal,SN
+Kaffrine Region,Kaffrine,Senegal,SN
+Kasai-Oriental,Kasaï-Oriental,"Congo, Democratic Republic of the",CD
+Melaky,Melaky,Madagascar,MG
+Androy,Androy,Madagascar,MG
+Kolda Region,Kolda,Senegal,SN
+Niari Department,Niari,"Congo, Republic of the",CG
+Komoe,Komoé,Burkina Faso,BF
+Mouhoun,Mou Houn,Burkina Faso,BF
+Boulkiemde,Boulkiemdé,Burkina Faso,BF
+Grande Comore,Andjazîdja,Comoros,KM
+Bangui,Bangui,Central African Republic,CF
+Mayotte,Mayotte,France,FR
+Ogooué-Maritime Province,Ogooué-Maritime,Gabon,GA
+Borgou Department,Borgou,Benin,BJ
+Anjouan,Andjouân,Comoros,KM
+Maradi Region,Maradi,Niger,NE
+Litoral Province,Litoral,Equatorial Guinea,GQ
+Agadez Region,Agadez,Niger,NE
+Zinder Region,Zinder,Niger,NE
+Haut-Ogooué Province,Haut-Ogooué,Gabon,GA
+Tahoua Region,Tahoua,Niger,NE
+Donga Department,Donga,Benin,BJ
+Logone Occidental Region,Logone Occidental,Chad,TD
+Yatenga,Yatenga,Burkina Faso,BF
+Ouaddaï Region,Ouaddaï,Chad,TD
+Kayes Region,Kayes,Mali,ML
+Mopti Region,Mopti,Mali,ML
+Sanmatenga,Sanmatenga,Burkina Faso,BF
+Ségou Region,Ségou,Mali,ML
+Gourma,Gourma,Burkina Faso,BF
+Sikasso Region,Sikasso,Mali,ML
+Alibori Department,Alibori,Benin,BJ
+Northwest Region,North-West,Botswana,BW
+Gao Region,Gao,Mali,ML
+Gitega Province,Gitega,Burundi,BI
+Atakora Department,Atakora,Benin,BJ
+Betsiboka,Betsiboka,Madagascar,MG
+Rivière Noire District,Rivière Noire,Mauritius,MU
+Diffa Region,Diffa,Niger,NE
+Dosso Region,Dosso,Niger,NE
+Collines Department,Collines,Benin,BJ
+Plateau Department,Plateau,Benin,BJ
+Tombouctou Region,Timbuktu,Mali,ML
+Dakhlet Nouadhibou Region,Dakhlet Nouadhibou,Mauritania,MR
+Cabinda Province,Cabinda,Angola,AO
+Savanne District,Savanne,Mauritius,MU
+Pamplemousses District,Pamplemousses,Mauritius,MU
+Mono Department,Mono,Benin,BJ
+Maniema,Maniema,"Congo, Democratic Republic of the",CD
+Denguélé,Denguélé,Cote d'Ivoire,CI
+Woroba District,,Côte d&#039;Ivoire,CI
+Mohéli,Moûhîlî,Comoros,KM
+Tete Province,Tete,Mozambique,MZ
+Sabha District,Sabha,Libya,LY
+Boulgou,Boulgou,Burkina Faso,BF
+Woleu-Ntem Province,Wouleu-Ntem,Gabon,GA
+Kouritenga,Kouritenga,Burkina Faso,BF
+Wele-Nzas Province,Wele-Nzás,Equatorial Guinea,GQ
+Hidalgo,Hidalgo,Mexico,MX
+Oaxaca,Oaxaca,Mexico,MX
+Quintana Roo,Quintana Roo,Mexico,MX
+Sonora,Sonora,Mexico,MX
+Campeche,Campeche,Mexico,MX
+Zacatecas,Zacatecas,Mexico,MX
+Formosa,Formosa,Argentina,AR
+Rondônia,Rondônia,Brazil,BR
+Piauí,Piauí,Brazil,BR
+Guerrero,Guerrero,Mexico,MX
+Chiapas,Chiapas,Mexico,MX
+Chihuahua,Chihuahua,Mexico,MX
+Querétaro Arteaga,Querétaro,Mexico,MX
+Salta,Salta,Argentina,AR
+Sinaloa,Sinaloa,Mexico,MX
+Durango,Durango,Mexico,MX
+Aguascalientes,Aguascalientes,Mexico,MX
+Rio Grande do Norte,Rio Grande do Norte,Brazil,BR
+Yucatán,Yucatán,Mexico,MX
+Jujuy,Jujuy,Argentina,AR
+Colima,Colima,Mexico,MX
+Federal District,Distrito Federal,Brazil,BR
+North West,North-West,Botswana,BW
+Free State,Free State,South Africa,ZA
+Baja California Sur,Baja California Sur,Mexico,MX
+Amapá,Amapá,Brazil,BR
+Santa Cruz,Santa Cruz,Bolivia,BO
+Nayarit,Nayarit,Mexico,MX
+Roraima,Roraima,Brazil,BR
+La Rioja,La Rioja,Argentina,AR
+Tocantins,Tocantins,Brazil,BR
+Sergipe,Sergipe,Brazil,BR
+Northern Cape,Northern Cape,South Africa,ZA
+Van Province,Van,Turkey,TR
+Acre,Acre,Brazil,BR
+Kilis Province,Kilis,Turkey,TR
+England,,United Kingdom,GB
+Brussels,Brussels,Belgium,BE
+Languedoc-Roussillon,,France,FR
+Midi-Pyrénées,,France,FR
+Haute-Normandie,,France,FR
+Pays de la Loire,,France,FR
+Aquitaine,,France,FR
+Bretagne,West New Britain,Papua New Guinea,PG
+Centre,Centre,Haiti,HT
+Picardie,,France,FR
+Scotland,,United Kingdom,GB
+Bourgogne,,France,FR
+Zürich,Zürich,Switzerland,CH
+Poitou-Charentes,,France,FR
+Champagne-Ardenne,,France,FR
+Basse-Normandie,,France,FR
+Wales,New South Wales,Ashmore and Cartier Islands,AU
+Canton of Geneva,Genève,Switzerland,CH
+Auvergne,,France,FR
+Franche-Comté,,France,FR
+Northern Ireland,,United Kingdom,GB
+Limousin,,France,FR
+Corse,Haute-Corse,France,FR
+Ticino,Ticino,Switzerland,CH
+Valais,Valais,Switzerland,CH
+Fribourg,Fribourg,Switzerland,CH
+Basel-City,Basel-Stadt,Switzerland,CH
+Luzern,Lucerne,Switzerland,CH
+Neuchâtel,Neuchâtel,Switzerland,CH
+Solothurn,Solothurn,Switzerland,CH
+Oromia Region,Oromiya,Ethiopia,ET
+Amhara Region,Amhara,Ethiopia,ET
+Federal Capital Territory,Federal Capital Territory,Nigeria,NG
+Rivers State,Rivers,Nigeria,NG
+Anambra State,Anambra,Nigeria,NG
+Delta State,Delta,Nigeria,NG
+Ondo State,Ondo,Nigeria,NG
+Adamawa State,Adamawa,Nigeria,NG
+Imo State,Imo,Nigeria,NG
+Bauchi State,Bauchi,Nigeria,NG
+Akwa Ibom State,Akwa Ibom,Nigeria,NG
+Osun State,Osun,Nigeria,NG
+Borno State,Borno,Nigeria,NG
+Kogi State,Kogi,Nigeria,NG
+Benué,Benué,Nigeria,NG
+Benué State,,Nigeria,NG
+Katsina State,Katsina,Nigeria,NG
+Somali Region,Somali,Ethiopia,ET
+Niger State,Niger,Nigeria,NG
+Sokoto State,Sokoto,Nigeria,NG
+Western Region,Western,Ghana,GH
+Djibouti,Djibouti,Djibouti,DJ
+Cross River State,Cross River,Nigeria,NG
+Gombe State,Gombe,Nigeria,NG
+Nasarawa State,Nassarawa,Nigeria,NG
+Ekiti State,Ekiti,Nigeria,NG
+Taraba State,Taraba,Nigeria,NG
+Bayelsa State,Bayelsa,Nigeria,NG
+Yobe State,Yobe,Nigeria,NG
+Zamfara State,Zamfara,Nigeria,NG
+Ebonyi State,Ebonyi,Nigeria,NG
+Benishangul-Gumuz Region,Benshangul-Gumaz,Ethiopia,ET
+Shefa Province,Shefa,Vanuatu,VU
+Harari Region,Harari People,Ethiopia,ET
+Kebbi State,Kebbi,Nigeria,NG
+Tigray Region,Tigray,Ethiopia,ET
+Afar Region,Afar,Ethiopia,ET
+Gambela Region,Gambela Peoples,Ethiopia,ET
+Bahr el Ghazal,Western Bahr el Ghazal,South Sudan,SS
+Volta Region,Volta,Ghana,GH
+Upper West Region,Upper West,Ghana,GH
+Mont Buxton,Mont Buxton,Seychelles,SC
+Jigawa State,Jigawa,Nigeria,NG
+Kasai-Occidental,Kasaï-Occidental,"Congo, Democratic Republic of the",CD
+Moka District,Moka,Mauritius,MU
+Windward Islands,Windward Islands,Clipperton Island,PF
+Sanma Province,Sanma,Vanuatu,VU
+Ngozi Province,Ngozi,Burundi,BI
+Lagunes,Lagunes,Cote d'Ivoire,CI
+Tiris Zemmour Region,Tiris Zemmour,Mauritania,MR
+Dix-Huit Montagnes,Dix-Huit Montagnes,Cote d'Ivoire,CI
+Lacs,Lakes,South Sudan,SS
+Sud-Comoé,Sud-Comoé,Cote d'Ivoire,CI
+Fromager,Fromager,Cote d'Ivoire,CI
+Haut-Sassandra,Haut-Sassandra,Cote d'Ivoire,CI
+Kara Region,Kara,Togo,TG
+Bolívar,Bolívar,Venezuela,VE
+Carabobo,Carabobo,Venezuela,VE
+Guárico,Guárico,Venezuela,VE
+Táchira,Táchira,Venezuela,VE
+Portuguesa,Portuguesa,Venezuela,VE
+Barinas,Barinas,Venezuela,VE
+Cordoba,Córdoba,Argentina,AR
+Trujillo,Trujillo,Venezuela,VE
+Yaracuy,Yaracuy,Venezuela,VE
+Valle del Cauca,Valle del Cauca,Colombia,CO
+Apure,Apure,Venezuela,VE
+Atlantico,Atlántico Norte,Nicaragua,NI
+Cojedes,Cojedes,Venezuela,VE
+Santander,Santander,Colombia,CO
+Norte de Santander,Norte de Santander,Colombia,CO
+Delta Amacuro,Delta Amacuro,Venezuela,VE
+Cesar,Cesar,Colombia,CO
+Manabí Province,Manabi,Ecuador,EC
+Magdalena,Magdalena,Colombia,CO
+Piura Region,Piura,Peru,PE
+Cauca,Cauca,Colombia,CO
+Huila,Huila,Colombia,CO
+La Guajira,La Guajira,Colombia,CO
+Tarija Department,Tarija,Bolivia,BO
+Meta,Meta,Colombia,CO
+Tolima,Tolima,Colombia,CO
+Boyaca,Boyacá,Colombia,CO
+Santiago Metropolitan Region,Región Metropolitana de Santiago,Chile,CL
+La Libertad Region,La Libertad,Peru,PE
+Lambayeque Region,Lambayeque,Peru,PE
+Narino,Nariño,Colombia,CO
+El Oro Province,El Oro,Ecuador,EC
+Casanare,Casanare,Colombia,CO
+Los Ríos Province,Los Rios,Ecuador,EC
+Risaralda,Risaralda,Colombia,CO
+Loreto Region,Loreto,Peru,PE
+Cajamarca Region,Cajamarca,Peru,PE
+Azuay Province,Azuay,Ecuador,EC
+Arauca,Arauca,Colombia,CO
+Ica Region,Ica,Peru,PE
+Santa Elena Province,Santa Elena,Ecuador,EC
+Caqueta,Caquetá,Colombia,CO
+Caldas,Caldas,Colombia,CO
+Putumayo,Putumayo,Colombia,CO
+Loja Province,Loja,Ecuador,EC
+Esmeraldas Province,Esmeraldas,Ecuador,EC
+Tungurahua Province,Tungurahua,Ecuador,EC
+Quindio,Quindío,Colombia,CO
+Valparaíso Region,Valparaíso,Chile,CL
+Cusco Region,Cusco,Peru,PE
+Junín Region,Junín,Peru,PE
+San Andres y Providencia,,Colombia,CO
+Ucayali Region,Ucayali,Peru,PE
+Sucumbíos Province,Sucumbios,Ecuador,EC
+Ayacucho Region,Ayacucho,Peru,PE
+San Martín Region,San Martín,Peru,PE
+Tumbes Region,Tumbes,Peru,PE
+Chimborazo Province,Chimborazo,Ecuador,EC
+Orellana Province,Orellana,Ecuador,EC
+Bío Bío Region,Bío-Bío,Chile,CL
+Imbabura Province,Imbabura,Ecuador,EC
+Choco,Chocó,Colombia,CO
+Huánuco Region,Huánuco,Peru,PE
+Callao,Puno,Peru,PE
+Vichada,Vichada,Colombia,CO
+Cañar Province,Cañar,Ecuador,EC
+Morona-Santiago Province,Morona Santiago,Ecuador,EC
+Cotopaxi Province,Cotopaxi,Ecuador,EC
+Madre de Dios Region,Madre de Dios,Peru,PE
+Zamora-Chinchipe Province,Zamora Chinchipe,Ecuador,EC
+Arica y Parinacota Region,Arica y Parinacota,Chile,CL
+Carchi Province,Carchi,Ecuador,EC
+Los Lagos Region,Los Lagos,Chile,CL
+Antofagasta Region,Antofagasta,Chile,CL
+O'Higgins Region,Libertador General Bernardo O'Higgins,Chile,CL
+Tacna Region,Tacna,Peru,PE
+Tarapacá Region,Tarapacá,Chile,CL
+Guainia,Guainía,Colombia,CO
+Araucanía Region,La Araucanía,Chile,CL
+Galápagos Province,Galápagos,Ecuador,EC
+Maule Region,Maule,Chile,CL
+Santo Domingo de los Tsáchilas Province,Santo Domingo de los Tsáchilas,Ecuador,EC
+Pastaza Province,Pastaza,Ecuador,EC
+Moquegua Region,Moquegua,Peru,PE
+Apurímac Region,Apurímac,Peru,PE
+Amazonas Region,Amazonas,Peru,PE
+Huancavelica Region,Huancavelica,Peru,PE
+Pando Department,Pando,Bolivia,BO
+Pasco Region,Pasco,Peru,PE
+Bolívar Province,Bolivar,Ecuador,EC
+Coquimbo Region,Coquimbo,Chile,CL
+Atacama Region,Atacama,Chile,CL
+Magallanes y la Antártica Chilena Region,Magallanes y Antártica Chilena,Chile,CL
+Guaviare,Guaviare,Colombia,CO
+Aysén Region,Aisén del General Carlos Ibáñez del Campo,Chile,CL
+Vaupes,Vaupés,Colombia,CO
+Navarra,Navarra,Spain,ES
+Extremadura,Cáceres,Spain,ES
+Cantabria,Cantabria,Spain,ES
+León Department,León,Nicaragua,NI
+Chinandega Department,Chinandega,Nicaragua,NI
+Santa Ana Department,Santa Ana,El Salvador,SV
+San Miguel Department,San Miguel,El Salvador,SV
+Estelí Department,Estelí,Nicaragua,NI
+Chontales Department,Chontales,Nicaragua,NI
+Sonsonate Department,Sonsonate,El Salvador,SV
+La Unión Department,La Unión,El Salvador,SV
+Región Autónoma del Atlántico Sur,Atlántico Sur,Nicaragua,NI
+Rivas Department,Rivas,Nicaragua,NI
+Ahuachapán Department,Ahuachapán,El Salvador,SV
+Región Autónoma del Atlántico Norte,Atlántico Norte,Nicaragua,NI
+La Libertad Department,La Libertad,El Salvador,SV
+Usulután Department,Usulután,El Salvador,SV
+Panamá Province,Panama,Panama,PA
+Río San Juan Department,Rio San Juan,Nicaragua,NI
+Boaco Department,Boaco,Nicaragua,NI
+Jinotega Department,Jinotega,Nicaragua,NI
+Masaya Department,Masaya,Nicaragua,NI
+Nueva Segovia Department,Nueva Segovia,Nicaragua,NI
+Montevideo Department,Montevideo,Uruguay,UY
+Cabañas Department,Cabañas,El Salvador,SV
+Concepción Department,Concepción,Paraguay,PY
+San Vicente Department,San Vicente,El Salvador,SV
+Morazán Department,Morazán,El Salvador,SV
+Carazo Department,Carazo,Nicaragua,NI
+Chalatenango Department,Chalatenango,El Salvador,SV
+Misiones Department,Misiones,Paraguay,PY
+Ñeembucú Department,Ñeembucú,Paraguay,PY
+Madriz Department,Madriz,Nicaragua,NI
+Maldonado Department,Maldonado,Uruguay,UY
+Chiriquí Province,Chiriquí,Panama,PA
+Treinta y Tres Department,Treinta y Tres,Uruguay,UY
+Cuscatlán Department,Cuscatlán,El Salvador,SV
+Artigas Department,Artigas,Uruguay,UY
+Rivera Department,Rivera,Uruguay,UY
+Colonia Department,Colonia,Uruguay,UY
+Canelones Department,Canelones,Uruguay,UY
+Salto Department,Salto,Uruguay,UY
+Valle Department,Valle,Honduras,HN
+Colón Department,Colón,Honduras,HN
+Atlántida Department,Atlántida,Honduras,HN
+Ocotepeque Department,Ocotepeque,Honduras,HN
+Cortés Department,Cortés,Honduras,HN
+Copán Department,Copán,Honduras,HN
+Olancho Department,Olancho,Honduras,HN
+Andalucía,Cádiz,Spain,ES
+Choluteca Department,Choluteca,Honduras,HN
+Comayagua Department,Comayagua,Honduras,HN
+Santa Bárbara Department,Santa Bárbara,Honduras,HN
+Colón Province,Colón,Panama,PA
+Durazno Department,Durazno,Uruguay,UY
+Copperbelt Province,Copperbelt,Zambia,ZM
+Sofala Province,Sofala,Mozambique,MZ
+Hhohho Region,Hhohho,Swaziland,SZ
+Central District,HaMerkaz,Israel,IL
+Manica Province,Manica,Mozambique,MZ
+Manzini Region,Manzini,Swaziland,SZ
+Zambezia Province,Zambezia,Mozambique,MZ
+North-East District,North-East,Botswana,BW
+Gaza Province,Gaza,Mozambique,MZ
+Maputo Province,Maputo,Mozambique,MZ
+Inhambane Province,Inhambane,Mozambique,MZ
+Syunik Province,Syunik,Armenia,AM
+Gegharkunik Province,Gegharkunik,Armenia,AM
+Kotayk Province,Kotayk,Armenia,AM
+Cabo Delgado Province,Cabo Delgado,Mozambique,MZ
+Niassa Province,Niassa,Mozambique,MZ
+Armavir Province,Armavir,Armenia,AM
+Lilongwe District,Lilongwe,Malawi,MW
+North-West District,North-West,Botswana,BW
+Tavush Province,Tavush,Armenia,AM
+Blantyre District,Blantyre,Malawi,MW
+Northwestern Province,North-Western,Zambia,ZM
+Aragatsotn Province,Aragatsotn,Armenia,AM
+Shiselweni Region,Shiselweni,Swaziland,SZ
+Vayots Dzor Province,Vayots Dzor,Armenia,AM
+Lubombo Region,Lubombo,Swaziland,SZ
+Southern District,HaDarom,Israel,IL
+Ghanzi District,Ghanzi,Botswana,BW
+Mbarara District,Mbarara,Uganda,UG
+Kweneng District,Kweneng,Botswana,BW
+Kgalagadi District,Kgalagadi,Botswana,BW
+Mongar District,Mongar,Bhutan,BT
+Mzimba District,Mzimba,Malawi,MW
+Karas Region,Karas,Namibia,NA
+Maryland County,Maryland,Liberia,LR
+Jinja District,Jinja,Uganda,UG
+Arua District,Arua,Uganda,UG
+Hardap Region,Hardap,Namibia,NA
+Samtse District,Samchi,Bhutan,BT
+Kgatleng District,Kgatleng,Botswana,BW
+Sagarmatha Zone,Sagarmatha,Nepal,NP
+Mahakali Zone,Mahakali,Nepal,NP
+Karnali Zone,Karnali,Nepal,NP
+Ratanakiri Province,Rôtânôkiri,Cambodia,KH
+Ayeyarwady Region,Ayeyarwady,Myanmar,MM
+Mbeya,Mbeya,Tanzania,TZ
+Naypyidaw,,Myanmar,MM
+Mwanza,Mwanza,Malawi,MW
+Tanintharyi Region,Tanintharyi,Myanmar,MM
+Togdheer,,Somalia,SO
+Dodoma,Dodoma,Tanzania,TZ
+Leribe District,Leribe,Lesotho,LS
+Mudug,Mudug,Somalia,SO
+Iringa,Njombe,Tanzania,TZ
+Kayah State,Kayah,Myanmar,MM
+Tanga,Tanga,Tanzania,TZ
+Uva Province,,Sri Lanka,LK
+Morogoro,Morogoro,Tanzania,TZ
+Chin State,Chin,Myanmar,MM
+Al Wahat District,,Libya,LY
+Awdal,,Somalia,SO
+Jabal al Akhdar,Al Jabal al Akhdar,Libya,LY
+Kilimanjaro,Kilimanjaro,Tanzania,TZ
+Mafeteng District,Mafeteng,Lesotho,LS
+Takhar Province,Takhar,Afghanistan,AF
+Taiz Governorate,Ta'izz Governorate,Yemen,YE
+Ta'izz Governorate,Ta`izz,Yemen,YE
+Derna District,,Libya,LY
+Mohale's Hoek District,Mohale's Hoek,Lesotho,LS
+Badakhshan Province,Gorno-Badakhshan,Tajikistan,TJ
+Trongsa District,Tongsa,Bhutan,BT
+Sool,,Somalia,SO
+Lhuntse District,Lhuntshi,Bhutan,BT
+Jabal al Gharbi District,Mizdah,Libya,LY
+Baghlan Province,Baghlan,Afghanistan,AF
+Ruvuma,Ruvuma,Tanzania,TZ
+Kunar Province,Kunar,Afghanistan,AF
+Sirte District,Surt,Libya,LY
+Shinyanga,Simiyu,Tanzania,TZ
+Butnan District,Al Butnan,Libya,LY
+Mbale District,Mbale,Uganda,UG
+Tabora,Tabora,Tanzania,TZ
+Singida,Singida,Tanzania,TZ
+Dagana District,Daga,Bhutan,BT
+Mtwara,Mtwara,Tanzania,TZ
+Murqub District,Al Marqab,Libya,LY
+Pemagatshel District,Pemagatsel,Bhutan,BT
+Marj District,Al Marj,Libya,LY
+Mokhotlong District,Mokhotlong,Lesotho,LS
+Haa District,Ha,Bhutan,BT
+Lower Juba,Jubbada Hoose,Somalia,SO
+Kigoma,Kigoma,Tanzania,TZ
+Kagera,Kagera,Tanzania,TZ
+Farah Province,Farah,Afghanistan,AF
+Bay,Bay,Somalia,SO
+Bamyan Province,Bamyan,Afghanistan,AF
+Qacha's Nek District,Qacha's Nek,Lesotho,LS
+Berea District,Berea,Lesotho,LS
+Kabale District,Kabale,Uganda,UG
+Quthing District,Quthing,Lesotho,LS
+Gulu District,Gulu,Uganda,UG
+Mara,Mara,Tanzania,TZ
+Wakiso District,Wakiso,Uganda,UG
+Rukwa,Katavi,Tanzania,TZ
+Hoima District,Hoima,Uganda,UG
+Helmand Province,Hilmand,Afghanistan,AF
+Kasese District,Kasese,Uganda,UG
+Kabarole District,Kabarole,Uganda,UG
+Lira District,Lira,Uganda,UG
+Faryab Province,Faryab,Afghanistan,AF
+Bulawayo,Bulawayo,Zimbabwe,ZW
+Jozjan Province,Jawzjan,Afghanistan,AF
+Zomba District,Zomba,Malawi,MW
+Kufra District,Al Kufrah,Libya,LY
+Thaba-Tseka District,Thaba-Tseka,Lesotho,LS
+Masaka District,Masaka,Uganda,UG
+Huíla Province,Huíla,Angola,AO
+Benguela Province,Benguela,Angola,AO
+Nimruz Province,Nimroz,Afghanistan,AF
+Paktia Province,Paktya,Afghanistan,AF
+Al Wusta Governorate,Al Wusta,Oman,OM
+Rukungiri District,Rukungiri,Uganda,UG
+Soroti District,Soroti,Uganda,UG
+Midlands Province,Midlands,Zimbabwe,ZW
+Badghis Province,Badghis,Afghanistan,AF
+Nalut District,Ghadamis,Libya,LY
+Addu Atoll,Addu,Maldives,MV
+Grand'Anse Mahé,,Seychelles,SC
+Ash Sharqiyah South Governorate,,Oman,OM
+Matrouh Governorate,Matruh,Egypt,EG
+Lindi,Lindi,Tanzania,TZ
+Baa Atoll,Baa,Maldives,MV
+Tororo District,Tororo,Uganda,UG
+Andaman and Nicobar Islands,Andaman and Nicobar,India,IN
+Hiran,Hiiraan,Somalia,SO
+Noonu Atoll,Noonu,Maldives,MV
+Uíge Province,Uíge,Angola,AO
+Saladin Governorate,Sala ad-Din,Iraq,IQ
+Laghman Province,Laghman,Afghanistan,AF
+Maysan Governorate,Maysan,Iraq,IQ
+Samangan Province,Samangan,Afghanistan,AF
+Mubende District,Mubende,Uganda,UG
+Lhaviyani Atoll,Lhaviyani,Maldives,MV
+West Coast Division,West Coast,"Gambia, The",GM
+Pwani,Coast,Kenya,KE
+Fogo,Tierra del Fuego,Argentina,AR
+Bushenyi District,Bushenyi,Uganda,UG
+Jizan Region,Jizan,Saudi Arabia,SA
+Omusati Region,Omusati,Namibia,NA
+Dhamar Governorate,Dhamar,Yemen,YE
+Mangochi District,Mangochi,Malawi,MW
+Kisoro District,Kisoro,Uganda,UG
+Greater Upper Nile,,South Sudan,SS
+Mashonaland West Province,Mashonaland West,Zimbabwe,ZW
+Murzuq District,Murzuq,Libya,LY
+Kavango East,,Namibia,NA
+Kidal Region,Kidal,Mali,ML
+Wasit Governorate,Wasit,Iraq,IQ
+Butha-Buthe District,Butha-Buthe,Lesotho,LS
+Kanungu District,Kanungu,Uganda,UG
+Grand Bassa County,Grand Bassa,Liberia,LR
+Ibanda District,Ibanda,Uganda,UG
+Belait District,Belait,Brunei,BN
+Iganga District,Iganga,Uganda,UG
+Gnaviyani Atoll,Gnaviyani,Maldives,MV
+Manicaland Province,Manicaland,Zimbabwe,ZW
+Busia District,Busia,Uganda,UG
+Musandam Governorate,Musandam,Oman,OM
+Ghor Province,Ghor,Afghanistan,AF
+Bong County,Bong,Liberia,LR
+Haa Dhaalu Atoll,Haa Dhaalu,Maldives,MV
+Mukono District,Mukono,Uganda,UG
+Isingiro District,Isingiro,Uganda,UG
+Ohangwena Region,Ohangwena,Namibia,NA
+Jufra District,Al Jufrah,Libya,LY
+Northern Borders Region,Al Hudud ash Shamaliyah,Saudi Arabia,SA
+Jamestown,,Saint Helena,SH
+Ntungamo District,Ntungamo,Uganda,UG
+Middle Shebelle,Shabeellaha Dhexe,Somalia,SO
+Masindi District,Masindi,Uganda,UG
+Wadi al Shatii District,,Libya,LY
+Urozgan Province,Uruzgan,Afghanistan,AF
+Namibe Province,Namibe,Angola,AO
+Galguduud,Galguduud,Somalia,SO
+Bururi Province,Bururi,Burundi,BI
+Darkhan-Uul Province,Darhan-Uul,Mongolia,MN
+Kayanza Province,Kayanza,Burundi,BI
+Oshikoto Region,Oshikoto,Namibia,NA
+Santo Antão,,Cape Verde,CV
+Al Hudaydah Governorate,Al Hudaydah,Yemen,YE
+Zabul Province,Zabul,Afghanistan,AF
+Kiruhura District,Mbarara,Uganda,UG
+Orkhon Province,Orhon,Mongolia,MN
+Paktika Province,Paktika,Afghanistan,AF
+Masvingo Province,Masvingo,Zimbabwe,ZW
+Itasy Region,Itasy,Madagascar,MG
+Lunda Sul Province,Lunda Sul,Angola,AO
+Muyinga Province,Muyinga,Burundi,BI
+Kunene Region,Kunene,Namibia,NA
+Kapchorwa District,Kapchorwa,Uganda,UG
+Lofa County,Lofa,Liberia,LR
+North Eastern Province,North-Eastern,Kenya,KE
+Makamba Province,Makamba,Burundi,BI
+Al Anbar Governorate,Al-Anbar,Iraq,IQ
+Ahmadi Governorate,Al Ahmadi,Kuwait,KW
+Ahal Region,Ahal,Turkmenistan,TM
+Hawalli Governorate,Hawalli,Kuwait,KW
+Matabeleland South Province,Matabeleland South,Zimbabwe,ZW
+Cuando Cubango Province,Cuando Cubango,Angola,AO
+Koulikoro Region,Koulikoro,Mali,ML
+Kyenjojo District,Kyenjojo,Uganda,UG
+Dhaalu Atoll,Dhaalu,Maldives,MV
+Al Bahah Region,Al Bahah,Saudi Arabia,SA
+São Nicolau,Tarrafal de São Nicolau,Cape Verde,CV
+Omaheke Region,Omaheke,Namibia,NA
+Maekel Region,Maekel,Eritrea,ER
+Karonga District,Chitipa,Malawi,MW
+Lower Shebelle,Shabeellaha Hoose,Somalia,SO
+Kirundo Province,Kirundo,Burundi,BI
+Zaire Province,Zaire,Angola,AO
+Cuanza Sul Province,Cuanza Sul,Angola,AO
+Kasungu District,Kasungu,Malawi,MW
+Nebbi District,Nebbi,Uganda,UG
+Mubarak Al-Kabeer Governorate,Mubarak Al-Kabeer,Kuwait,KW
+Nimba County,Nimba,Liberia,LR
+Logar Province,Logar,Afghanistan,AF
+Bundibugyo District,Bundibugyo,Uganda,UG
+Haa Alif Atoll,Haa Alifu,Maldives,MV
+Cunene Province,Cunene,Angola,AO
+Zambezi Region,Caprivi,Namibia,NA
+Haute-Kotto,Haute-Kotto,Central African Republic,CF
+Wadi al Hayaa District,Wadi al Hayaa,Libya,LY
+Tenasserim,Tanintharyi,Myanmar,MM
+Laamu Atoll,Laamu,Maldives,MV
+Maio,Maio,Cape Verde,CV
+Raa Atoll,Raa,Maldives,MV
+Nana-Mambere,Nana-Mambéré,Central African Republic,CF
+Rakai District,Rakai,Uganda,UG
+Hajjah Governorate,Hajjah,Yemen,YE
+Dedza District,Dedza,Malawi,MW
+Matabeleland North Province,Matabeleland North,Zimbabwe,ZW
+Lyantonde District,Lyantonde,Uganda,UG
+Ghat District,Ghat,Libya,LY
+Tutong District,Tutong,Brunei,BN
+Moxico Province,Moxico,Angola,AO
+Bié Province,Bié,Angola,AO
+Kolhumadulu Atoll,,Maldives,MV
+Faafu Atoll,Faafu,Maldives,MV
+Cibitoke Province,Cibitoke,Burundi,BI
+Jahra Governorate,Al Jahrah,Kuwait,KW
+Kumi District,Kumi,Uganda,UG
+Ntcheu District,Ntcheu,Malawi,MW
+Mashonaland Central Province,Mashonaland Central,Zimbabwe,ZW
+Luwero District,Luweero,Uganda,UG
+Panjshir Province,Parwan,Afghanistan,AF
+Adjumani District,Adjumani,Uganda,UG
+North Bank Division,North Bank,"Gambia, The",GM
+Central River Division,Central River,"Gambia, The",GM
+Cankuzo Province,Cankuzo,Burundi,BI
+Kibale District,Kibale,Uganda,UG
+Baie Sainte Anne,Baie Sainte Anne,Seychelles,SC
+La Digue and Inner Islands,La Digue and Inner Islands,Seychelles,SC
+Bubanza Province,Bubanza,Burundi,BI
+Ouaka,Ouaka,Central African Republic,CF
+Bandundu,Bandundu,"Congo, Democratic Republic of the",CD
+Ouham,Ouham,Central African Republic,CF
+Nana-Grebizi,Nana-Grébizi,Central African Republic,CF
+Kouffo Department,Kouffo,Benin,BJ
+Stepanakert,Stepanakert,Azerbaijan,AZ
+Gedo,Gedo,Somalia,SO
+Malanje Province,Malanje,Angola,AO
+Cuanza Norte Province,Cuanza Norte,Angola,AO
+Uvs Province,Uvs,Mongolia,MN
+Ali Sabieh Region,Ali Sabieh,Djibouti,DJ
+Karakalpakstan,Karakalpakstan,Uzbekistan,UZ
+Balaka District,Balaka,Malawi,MW
+Machinga District,Machinga,Malawi,MW
+Jerash Governorate,Jarash,Jordan,JO
+Salima District,Salima,Malawi,MW
+Lunda Norte Province,Lunda Norte,Angola,AO
+Dikhil Region,Dikhil,Djibouti,DJ
+Bukedea District,Bukedea,Uganda,UG
+Pallisa District,Pallisa,Uganda,UG
+Rubirizi District,Rubirizi,Uganda,UG
+Bomi County,Bomi,Liberia,LR
+Pader District,Pader,Uganda,UG
+Kotido District,Kotido,Uganda,UG
+Al Mahrah Governorate,Al Mahrah,Yemen,YE
+Kitgum District,Kitgum,Uganda,UG
+Gorno-Badakhshan Autonomous Region,Gorno-Badakhshan,Tajikistan,TJ
+Sinoe County,Sinoe,Liberia,LR
+Ruyigi Province,Ruyigi,Burundi,BI
+Upper River Division,Upper River,"Gambia, The",GM
+Kamuli District,Kamuli,Uganda,UG
+Abim District,Abim,Uganda,UG
+Lakshadweep,Lakshadweep,India,IN
+Emirate of Sharjah,Sharjah Emirate,United Arab Emirates,AE
+Sharjah Emirate,Sharjah,United Arab Emirates,AE
+Gash-Barka Region,Gash Barka,Eritrea,ER
+Emirate of Ajman,Ajman Emirate,United Arab Emirates,AE
+Ajman Emirate,Ajman,United Arab Emirates,AE
+Fujairah,Fujayrah,United Arab Emirates,AE
+Ras al-Khaimah,Ras Al Khaymah,United Arab Emirates,AE
+Tel Aviv,Tel Aviv,Israel,IL
+Northern District,HaZafon,Israel,IL
+Umm al-Quwain,Umm Al Qaywayn,United Arab Emirates,AE
+Jerusalem,Jerusalem,Israel,IL
+Kyrenia District,,Cyprus,CY
+Pailin,Krong Pailin,Cambodia,KH
+Ma'an Governorate,Ma`an,Jordan,JO
+Trang,Trang,Thailand,TH
+Mtskheta-Mtianeti,Mtskheta-Mtianeti,Georgia,GE
+Putrajaya,Putrajaya,Malaysia,MY
+Fergana Region,Ferghana,Uzbekistan,UZ
+Haifa,Haifa,Israel,IL
+Mityana District,Mityana,Uganda,UG
+Mashonaland East Province,Mashonaland East,Zimbabwe,ZW
+Ma'rib Governorate,Ma'rib,Yemen,YE
+Al Wakrah,Al Wakrah,Qatar,QA
+Racha-Lechkhumi and Kvemo Svaneti,Racha-Lechkhumi-Kvemo Svaneti,Georgia,GE
+Nakhchivan Autonomous Republic,,Azerbaijan,AZ
+Al Khor,Al Khawr,Qatar,QA
+Namangan Region,Namangan,Uzbekistan,UZ
+Samut Songkhram,Samut Songkhram,Thailand,TH
+Karaganda Region,Qaraghandy,Kazakhstan,KZ
+Qakh District,Qax,Azerbaijan,AZ
+Bukhara Region,Bukhoro,Uzbekistan,UZ
+Abkhazia,Abkhazia,Georgia,GE
+Karabük Province,Karabük,Turkey,TR
+Lankaran District,Lankaran,Azerbaijan,AZ
+Artvin Province,Artvin,Turkey,TR
+Andijan Region,Andijon,Uzbekistan,UZ
+Burdur Province,Burdur,Turkey,TR
+Satun,Satun,Thailand,TH
+Siirt Province,Siirt,Turkey,TR
+Uttaradit,Uttaradit,Thailand,TH
+Umm Salal,Umm Salal,Qatar,QA
+Chuy Region,Chuy,Kyrgyzstan,KG
+Sekong Province,Xékong,Laos,LA
+Xorazm Region,Khorezm,Uzbekistan,UZ
+Pavlodar Region,Pavlodar,Kazakhstan,KZ
+East Kazakhstan Region,East Kazakhstan,Kazakhstan,KZ
+Uthai Thani,Uthai Thani,Thailand,TH
+Chungcheongbuk-do,North Chungcheong,"Korea, South",KR
+Qashqadaryo Region,Kashkadarya,Uzbekistan,UZ
+Al Bayda Governorate,Al Bayda' Governorate,Yemen,YE
+Al Bayda' Governorate,Al Bayda',Yemen,YE
+Mangystau Region,Mangghystau,Kazakhstan,KZ
+Aktobe Region,Aqtöbe,Kazakhstan,KZ
+Lebap Region,Chardzhou,Turkmenistan,TM
+Jafara,Al Jifarah,Libya,LY
+Jeollabuk-do,North Jeolla,"Korea, South",KR
+Mayuge District,Mayuge,Uganda,UG
+Jeollanam-do,South Jeolla,"Korea, South",KR
+Paramaribo District,Paramaribo,Suriname,SR
+East Berbice-Corentyne,Mahaica-Berbice,Guyana,GY
+Poni,Poni,Burkina Faso,BF
+Equateur,Équateur,"Congo, Democratic Republic of the",CD
+Nickerie District,Nickerie,Suriname,SR
+Upper Takutu-Upper Essequibo,Upper Demerara-Berbice,Guyana,GY
+Kossi,Kossi,Burkina Faso,BF
+Tacuarembó Department,Tacuarembó,Uruguay,UY
+Tuy,Tuy,Burkina Faso,BF
+Upper Demerara-Berbice,Upper Demerara-Berbice,Guyana,GY
+Florida Department,Florida,Uruguay,UY
+Alto Paraguay Department,Alto Paraguay,Paraguay,PY
+Rocha Department,Rocha,Uruguay,UY
+Plateaux Region,Plateaux,Togo,TG
+Soriano Department,Soriano,Uruguay,UY
+Río Negro Department,Río Negro,Uruguay,UY
+Lavalleja Department,Lavalleja,Uruguay,UY
+San José Department,San José,Uruguay,UY
+Wanica District,Wanica,Suriname,SR
+Bougouriba,Bougouriba,Burkina Faso,BF
+Ioba,Ioba,Burkina Faso,BF
+Essequibo Islands-West Demerara,Demerara-Mahaica,Guyana,GY
+'Amran Governorate,Amran,Yemen,YE
+Bam,Bam,Burkina Faso,BF
+Cuyuni-Mazaruni,Cuyuni-Mazaruni,Guyana,GY
+Sourou,Sourou,Burkina Faso,BF
+Phongsaly Province,Phôngsali,Laos,LA
+Kenedougou,Kénédougou,Burkina Faso,BF
+Bale,Balé,Burkina Faso,BF
+Bitlis Province,Bitlis,Turkey,TR
+Nantou,Nantou,Taiwan,TW
+Banwa,Banwa,Burkina Faso,BF
+Savanes Region,Savanes,Togo,TG
+West Kazakhstan Region,West Kazakhstan,Kazakhstan,KZ
+Kapisa Province,Kapisa,Afghanistan,AF
+Shabwah Governorate,Shabwah,Yemen,YE
+Kyzylorda Region,Qyzylorda,Kazakhstan,KZ
+Rutana Province,Rutana,Burundi,BI
+Quba Rayon,Quba,Azerbaijan,AZ
+Para District,Para,Suriname,SR
+Commewijne District,Commewijne,Suriname,SR
+Sissili,Sissili,Burkina Faso,BF
+Pomeroon-Supenaam,Pomeroon-Supenaam,Guyana,GY
+Abyan Governorate,Abyan,Yemen,YE
+Flores Department,Flores,Uruguay,UY
+Trarza Region,Trarza,Mauritania,MR
+Sipaliwini District,Sipaliwini,Suriname,SR
+Jambyl Region,Zhambyl,Kazakhstan,KZ
+Saramacca District,Saramacca,Suriname,SR
+Khatlon Region,Khatlon,Tajikistan,TJ
+Tillabéri Region,Tillabéri,Niger,NE
+Centrale Region,HaMerkaz,Israel,IL
+Mulanje District,Mulanje,Malawi,MW
+Sanguie,Sanguié,Burkina Faso,BF
+Dundgovi Province,Dundgovi,Mongolia,MN
+Adrar Region,Adrar,Mauritania,MR
+Kars Province,Kars,Turkey,TR
+Goychay District,Göyçay,Azerbaijan,AZ
+Hodh Ech Chargui Region,Hodh ech Chargui,Mauritania,MR
+Tibesti Region,Tibesti,Chad,TD
+Borkou Region,Borkou,Chad,TD
+Passore,Passoré,Burkina Faso,BF
+Sangha Department,Sangha,"Congo, Republic of the",CG
+Karuzi Province,Karuzi,Burundi,BI
+Bouenza Department,Bouenza,"Congo, Republic of the",CG
+Yilan,Yilan,Taiwan,TW
+Zaqatala District,Zaqatala,Azerbaijan,AZ
+Keelung City,Keelung City,Taiwan,TW
+Bujumbura Rural Province,Bujumbura Rural,Burundi,BI
+Mambere-Kadei,Mambéré-Kadéï,Central African Republic,CF
+Taitung,Taitung,Taiwan,TW
+Leraba,Léraba,Burkina Faso,BF
+Príncipe,Príncipe,Sao Tome and Principe,ST
+Tovuz District,Tovuz,Azerbaijan,AZ
+Inchiri Region,Inchiri,Mauritania,MR
+Khachmaz District,Xaçmaz,Azerbaijan,AZ
+Moyen-Chari Region,Moyen-Chari,Chad,TD
+Soum,Soum,Burkina Faso,BF
+Talas Region,Talas,Kyrgyzstan,KG
+Naryn Region,Naryn,Kyrgyzstan,KG
+Moyen-Ogooué Province,Moyen-Ogooué,Gabon,GA
+Assaba Region,Assaba,Mauritania,MR
+Maidan Wardak Province,Wardak,Afghanistan,AF
+Coronie District,Coronie,Suriname,SR
+Kié-Ntem Province,Kié-Ntem,Equatorial Guinea,GQ
+Kinmen,Kinmen,Taiwan,TW
+Shirvan,Shirvan,Azerbaijan,AZ
+Nkhotakota District,Nkhotakota,Malawi,MW
+Yevlakh District,Yevlakh Rayon,Azerbaijan,AZ
+Mahaica-Berbice,Mahaica-Berbice,Guyana,GY
+Gangwon-do,Gangwon,"Korea, South",KR
+Penghu,Penghu,Taiwan,TW
+Barima-Waini,Barima-Waini,Guyana,GY
+Issyk Kul Region,Ysyk-Köl,Kyrgyzstan,KG
+Mary Region,Mary,Turkmenistan,TM
+Zoundweogo,Zoundwéogo,Burkina Faso,BF
+Ogooué-Lolo Province,Ogooué-Lolo,Gabon,GA
+Nsanje District,Nsanje,Malawi,MW
+Ngounié Province,Ngounié,Gabon,GA
+Vakaga,Vakaga,Central African Republic,CF
+Mpigi District,Mpigi,Uganda,UG
+Meemu Atoll,Meemu,Maldives,MV
+Grand Gedeh County,Grand Gedeh,Liberia,LR
+Kayunga District,Kayunga,Uganda,UG
+Bugiri District,Bugiri,Uganda,UG
+Kamwenge District,Kamwenge,Uganda,UG
+Kiboga District,Kiboga,Uganda,UG
+Nakaseke District,Nakaseke,Uganda,UG
+Al Daayen,Al Daayen,Qatar,QA
+Tadjourah Region,Tadjourah,Djibouti,DJ
+Madinat ash Shamal,Madinat ach Shamal,Qatar,QA
+Moroto District,Moroto,Uganda,UG
+Nakasongola District,Nakasongola,Uganda,UG
+Moyo District,Moyo,Uganda,UG
+Lahij Governorate,Lahij,Yemen,YE
+Ad Dali' Governorate,Al Dali',Yemen,YE
+Al Mahwit Governorate,Al Mahwit,Yemen,YE
+Mandoul Region,Mandoul,Chad,TD
+Socotra Governorate,,Yemen,YE
+Saada Governorate,,Yemen,YE
+Logone Oriental Region,Logone Oriental,Chad,TD
+Al Jawf Governorate,Al Jawf,Yemen,YE
+Tandjilé Region,Tandjilé,Chad,TD
+Hodh El Gharbi Region,Hodh el Gharbi,Mauritania,MR
+Wadi Fira Region,Wadi Fira,Chad,TD
+Ardahan Province,Ardahan,Turkey,TR
+Navoiy Region,Navoi,Uzbekistan,UZ
+Surxondaryo Region,Surkhandarya,Uzbekistan,UZ
+Bayburt Province,Bayburt,Turkey,TR
+Hakkâri Province,Hakkari,Turkey,TR
+Kostanay Region,Qostanay,Kazakhstan,KZ
+Jizzakh Region,Jizzakh,Uzbekistan,UZ
+Marowijne District,Marowijne,Suriname,SR
+Brokopondo District,Brokopondo,Suriname,SR
+North Kazakhstan Region,North Kazakhstan,Kazakhstan,KZ
+Chiayi,Chiayi,Taiwan,TW
+Northern Red Sea Region,Debub,Eritrea,ER
+Shusha,Lankaran,Azerbaijan,AZ
+Mayo-Kebbi Est Region,Mayo-Kebbi Est,Chad,TD
+Brakna Region,Brakna,Mauritania,MR
+Hsinchu,Hsinchu,Taiwan,TW
+Quiché Department,Quiché,Guatemala,GT
+Belize District,Belize,Belize,BZ
+Honiara,Capital Territory (Honiara),Solomon Islands,SB
+Western Division,West Coast,"Gambia, The",GM
+Escuintla Department,Escuintla,Guatemala,GT
+El Paraíso Department,El Paraíso,Honduras,HN
+Sacatepéquez Department,Sacatepéquez,Guatemala,GT
+San Marcos Department,San Marcos,Guatemala,GT
+Chiquimula Department,Chiquimula,Guatemala,GT
+Orange Walk District,Orange Walk,Belize,BZ
+Cayo District,Cayo,Belize,BZ
+Jutiapa Department,Jutiapa,Guatemala,GT
+Izabal Department,Izabal,Guatemala,GT
+Alta Verapaz Department,Alta Verapaz,Guatemala,GT
+Retalhuleu Department,Retalhuleu,Guatemala,GT
+Suchitepéquez Department,Suchitepéquez,Guatemala,GT
+Petén Department,Petén,Guatemala,GT
+San Cristóbal Province,San Cristóbal,Dominican Republic,DO
+Chimaltenango Department,Chimaltenango,Guatemala,GT
+Samoa,Eastern District,American Samoa,AS
+Eastern District,Eastern,American Samoa,AS
+Santa Rosa Department,Santa Rosa,Guatemala,GT
+Bay Islands Department,Islas de la Bahía,Honduras,HN
+Baja Verapaz Department,Baja Verapaz,Guatemala,GT
+Totonicapán Department,Totonicapán,Guatemala,GT
+East New Britain Province,East New Britain,Papua New Guinea,PG
+La Altagracia Province,La Altagracia,Dominican Republic,DO
+Castries,Castries,Saint Lucia,LC
+Sololá Department,Sololá,Guatemala,GT
+Nord Department,HaZafon,Israel,IL
+Jalapa Department,Jalapa,Guatemala,GT
+Lempira Department,Lempira,Honduras,HN
+Saint George Parish,Saint George,Grenada,GD
+Saint John Parish,Saint John,Grenada,GD
+Saint George,Saint George,Grenada,GD
+Intibucá Department,Intibucá,Honduras,HN
+El Progreso Department,El Progreso,Guatemala,GT
+Zacapa Department,Zacapa,Guatemala,GT
+Duarte Province,Duarte,Dominican Republic,DO
+Sint Maarten,Sint Maarten,Sint Maarten,SX
+Artibonite Department,L'Artibonite,Haiti,HT
+Northern Division,Northern,Fiji,FJ
+Veraguas Province,Veraguas,Panama,PA
+Coclé Province,Coclé,Panama,PA
+Western Highlands Province,Western Highlands,Papua New Guinea,PG
+Eastern Highlands Province,Eastern Highlands,Papua New Guinea,PG
+Santo Domingo Province,Santo Domingo,Dominican Republic,DO
+Turks and Caicos Islands,,Turks and Caicos Islands,TC
+Saint Andrew Parish,Saint Andrew,Grenada,GD
+Espaillat Province,Espaillat,Dominican Republic,DO
+East Sepik Province,East Sepik,Papua New Guinea,PG
+Enga Province,Enga,Papua New Guinea,PG
+Toledo District,Toledo,Belize,BZ
+Monseñor Nouel Province,Monseñor Nouel,Dominican Republic,DO
+Buada District,Buada,Nauru,NR
+Peravia Province,Peravia,Dominican Republic,DO
+British Virgin Islands,British Virgin Islands,"Virgin Islands, British",VG
+Bocas del Toro Province,Bocas del Toro,Panama,PA
+María Trinidad Sánchez Province,María Trinidad Sánchez,Dominican Republic,DO
+New Providence,New Providence,"Bahamas, The",BS
+West New Britain Province,West New Britain,Papua New Guinea,PG
+Salcedo,Hermanas,Dominican Republic,DO
+Barahona Province,Barahona,Dominican Republic,DO
+Saint Michael,Saint Michael,Barbados,BB
+Couva-Tabaquite-Talparo Regional Corporation,,Trinidad and Tobago,TT
+Valverde Province,Valverde,Dominican Republic,DO
+Azua Province,Azua,Dominican Republic,DO
+Palau,Palauli,Samoa,WS
+Baoruco Province,Bahoruco,Dominican Republic,DO
+New Ireland Province,New Ireland,Papua New Guinea,PG
+Samaná Province,Samaná,Dominican Republic,DO
+Grand Cayman,,Cayman Islands,KY
+Saint George Basseterre,Saint George Basseterre,Saint Kitts and Nevis,KN
+San Juan Province,San Juan,Argentina,AR
+Rarotonga,Rarotonga,Cook Islands,CK
+Sánchez Ramírez Province,Sánchez Ramírez,Dominican Republic,DO
+Herrera Province,Herrera,Panama,PA
+Stann Creek District,Stann Creek,Belize,BZ
+Chaguanas,Chaguanas,Trinidad and Tobago,TT
+Monte Plata Province,Monte Plata,Dominican Republic,DO
+Los Santos Province,Los Santos,Panama,PA
+Vieux-Fort,Vieux Fort,Saint Lucia,LC
+Saint Martin,St. Martin,Saint Martin,MF
+Sandaun Province,Sandaun,Papua New Guinea,PG
+Sud-Est Department,Sud-Est,Haiti,HT
+Penal-Debe Regional Corporation,,Trinidad and Tobago,TT
+Charlotte,Charlotte,Saint Vincent and the Grenadines,VC
+Nord-Ouest Department,North-West,Botswana,BW
+Hato Mayor Province,Hato Mayor,Dominican Republic,DO
+Seal Island,,Anguilla,AI
+Southern Highlands Province,Southern Highlands,Papua New Guinea,PG
+San José de Ocoa Province,San José de Ocoa,Dominican Republic,DO
+Sud Department,HaDarom,Israel,IL
+Princes Town Regional Corporation,,Trinidad and Tobago,TT
+Tunapuna-Piarco Regional Corporation,,Trinidad and Tobago,TT
+Soufriere,Soufrière,Saint Lucia,LC
+San Fernando,San Fernando,Trinidad and Tobago,TT
+Siparia Regional Corporation,,Trinidad and Tobago,TT
+Port of Spain,Port of Spain,Trinidad and Tobago,TT
+Dajabón Province,Dajabón,Dominican Republic,DO
+Santiago Rodríguez Province,Santiago Rodríguez,Dominican Republic,DO
+Saint Catherine Parish,Saint Catherine,Jamaica,JM
+Saint John Figtree,Saint John Figtree,Saint Kitts and Nevis,KN
+Kosrae,Kosrae,"Micronesia, Federated States of",FM
+Aruba,Aruba,Aruba,AW
+Milne Bay Province,Milne Bay,Papua New Guinea,PG
+Monte Cristi Province,Monte Cristi,Dominican Republic,DO
+Independencia Province,Independencia,Dominican Republic,DO
+Autonomous Region of Bougainville,Bougainville,Papua New Guinea,PG
+Bougainville,North Solomons,Papua New Guinea,PG
+Nord-Est Department,Arunachal Pradesh,India,IN
+Manchester Parish,Manchester,Jamaica,JM
+San Juan-Laventille Regional Corporation,,Trinidad and Tobago,TT
+Point Fortin,Point Fortin,Trinidad and Tobago,TT
+Saint Mark Parish,Saint Mark,Grenada,GD
+Hela Province,,Papua New Guinea,PG
+Gracias a Dios Department,Gracias a Dios,Honduras,HN
+Saint James Parish,Saint James,Jamaica,JM
+Oro Province,Northern,Papua New Guinea,PG
+Dennery,Dennery,Saint Lucia,LC
+Corozal District,Corozal,Belize,BZ
+Centre Department,Central,Botswana,BW
+French Guiana,Guyane française,France,FR
+Limón Province,Limón,Costa Rica,CR
+Arima,Arima,Trinidad and Tobago,TT
+Sangre Grande Regional Corporation,,Trinidad and Tobago,TT
+Saint Ann Parish,Saint Ann,Jamaica,JM
+Westmoreland Parish,Westmoreland,Jamaica,JM
+Saint David Parish,Saint David,Grenada,GD
+Tobago,Eastern Tobago,Trinidad and Tobago,TT
+Grenadines,Grenadines,Saint Vincent and the Grenadines,VC
+Manus Province,Manus,Papua New Guinea,PG
+Jiwaka Province,,Papua New Guinea,PG
+Funafuti,,Tuvalu,TV
+Freeport,City of Freeport,"Bahamas, The",BS
+Nippes Department,Nippes,Haiti,HT
+Falkland Islands,Falkland Islands,Falkland Islands (Islas Malvinas),FK
+Yap,Yap,"Micronesia, Federated States of",FM
+Chimbu Province,Chimbu,Papua New Guinea,PG
+Laborie,Laborie,Saint Lucia,LC
+Gulf Province,Gulf,Papua New Guinea,PG
+Pedernales Province,Pedernales,Dominican Republic,DO
+Grand'Anse Department,Grand'Anse,Haiti,HT
+Carriacou,Carriacou and Petite Martinique,Grenada,GD
+Eastern Division,Eastern,Fiji,FJ
+Saint Thomas Parish,Saint Thomas,Jamaica,JM
+Saint Patrick Parish,Saint Patrick,Grenada,GD
+Andorra la Vella,Andorra la Vella,Andorra,AD
+Saint Anthony,Saint Anthony,Montserrat,MS
+Saint Peter,Saint Peter,Barbados,BB
+Clarendon Parish,Clarendon,Jamaica,JM
+Sermersooq,Kommuneqarfik Sermersooq,Greenland,GL
+Elías Piña Province,La Estrelleta,Dominican Republic,DO
+Gibraltar,Gibraltar,Gibraltar,GI
+Hamilton Parish,Hamilton,Bermuda,BM
+Batha Region,Batha,Chad,TD
+Gorgol Region,Gorgol,Mauritania,MR
+Salamat Region,Salamat,Chad,TD
+Pljevlja Municipality,Pljevlja,Montenegro,ME
+Bahr el Gazel Region,Barh El Gazel,Chad,TD
+Guéra Region,Guéra,Chad,TD
+Tagant Region,Tagant,Mauritania,MR
+Guidimaka Region,Guidimaka,Mauritania,MR
+Qaasuitsup,Qaasuitsup Kommunia,Greenland,GL
+Cartago Province,Cartago,Costa Rica,CR
+Qeqqata,Qeqqata Kommunia,Greenland,GL
+Saint Barthélemy,Saint Barthélemy,Saint Barthelemy,BL
+Ouham-Pende,Ouham-Pendé,Central African Republic,CF
+Khmelnytskyi Oblast,Khmel'nyts'kyy,Ukraine,UA
+Hadjer-Lamis Region,Hadjer-Lamis,Chad,TD
+Lac Region,Lac,Chad,TD
+Antarctica,Antarctica,Antarctica,AQ
+Bafatá Region,Bafatá,Guinea-Bissau,GW
+Lobaye,Lobaye,Central African Republic,CF
+Sangha-Mbaere,Sangha-Mbaéré,Central African Republic,CF
+Centro Sur Province,Centro Sur,Equatorial Guinea,GQ
+Bioko Sur Province,Bioko Sur,Equatorial Guinea,GQ
+Sila Region,Sila,Chad,TD
+Mayo-Kebbi Ouest Region,Mayo-Kebbi Ouest,Chad,TD
+Balkan Region,Balkan,Turkmenistan,TM
+Kiribati,Kiribati,Kiribati,KI
+Choiseul Province,Choiseul,Solomon Islands,SB
+Guadalcanal Province,Guadalcanal,Solomon Islands,SB
+Malaita Province,Malaita,Solomon Islands,SB
+Rennell and Bellona Province,Rennell and Bellona,Solomon Islands,SB
+Southern Region,Suðurland,Iceland,IS
+Southern Red Sea Region,Debubawi Keyih Bahri,Eritrea,ER
+Cacheu Region,Cacheu,Guinea-Bissau,GW
+Gabú Region,Gabú,Guinea-Bissau,GW
+South Province,Sud,New Caledonia,NC
+Bel Ombre,Bel Ombre,Seychelles,SC
+Guadeloupe,Guadeloupe,France,FR
+Saint Patrick,Saint Patrick,Grenada,GD
+Choiseul,Choiseul,Saint Lucia,LC
+Primorsky Krai,Primor'ye,Russia,RU
+Arta Region,Arta,Djibouti,DJ
+Rostov Oblast,Rostov,Russia,RU
+Diego Martin Regional Corporation,,Trinidad and Tobago,TT
+Anse-la-Raye,Anse-la-Raye,Saint Lucia,LC
+Kujalleq,Kommune Kujalleq,Greenland,GL
+Darién Province,Darién,Panama,PA
+Saint Andrew,Saint Andrew,Grenada,GD
+Temburong District,Temburong,Brunei,BN
+Saint Helier,,Jersey,JE
+Saint David,Saint David,Grenada,GD
+Rio Claro-Mayaro Regional Corporation,,Trinidad and Tobago,TT
+Cherkasy Oblast,Cherkasy,Ukraine,UA
+Niue,Niue,Niue,NU
+Mykolaiv Oblast,Mykolayiv,Ukraine,UA
+Christ Church,Christ Church,Barbados,BB
+Aitutaki,Aitutaki,Cook Islands,CK
+Luhansk Oblast,Luhans'k,Ukraine,UA
+Saint Peter Port,,Guernsey,GG
+Isle Of Man,,Isle Of Man,IM
+Kiev Oblast,Kiev,Ukraine,UA
+Encamp,Encamp,Andorra,AD
+Micoud,Micoud,Saint Lucia,LC
+Escaldes-Engordany,Escaldes-Engordany,Andorra,AD
+Saint Pierre and Miquelon,Saint-Pierre,Saint Pierre and Miquelon,PM
+Fakaofo,,Tokelau,TK
+Rakahanga,Rakahanga,Cook Islands,CK
+Sant Julià de Lòria,Sant Julià de Lòria,Andorra,AD
+Potaro-Siparuni,Potaro-Siparuni,Guyana,GY
+La Massana,La Massana,Andorra,AD
+Soroca District,Soroca,Moldova,MD
+Manihiki,Manihiki,Cook Islands,CK
+Jaluit Atoll,,Marshall Islands,MH
+Krasnodar Krai,Krasnodar,Russia,RU
+Praslin,Praslin,Saint Lucia,LC
+Penrhyn,Penrhyn,Cook Islands,CK
+Saint Philip,Saint Philip,Barbados,BB
+Transnistria,Transnistria,Moldova,MD
+Saint James,Saint James,Barbados,BB
+Drochia District,Drochia,Moldova,MD
+Palmerston Island,,Cook Islands,CK
+Canillo,Canillo,Andorra,AD
+Ordino,Ordino,Andorra,AD
+Saint Joseph Parish,Saint Joseph,Dominica,DM
+Saint Peter Parish,Saint Peter,Dominica,DM
+Portland Parish,Portland,Jamaica,JM
+Gorj County,Gorj,Romania,RO
+Grodno Region,Grodno,Belarus,BY
+Nisporeni District,Nisporeni,Moldova,MD
+La Condamine,,Monaco,MC
+Cahul District,Cahul,Moldova,MD
+Bengo Province,Bengo,Angola,AO
+Sverdlovsk Oblast,Sverdlovsk,Russia,RU
+Anse Etoile,Anse Etoile,Seychelles,SC
+Mangaia,Mangaia,Cook Islands,CK
+Atiu,Atiu,Cook Islands,CK
+Temotu Province,Temotu,Solomon Islands,SB
+Leova District,Leova,Moldova,MD
+Mauke,Mauke,Cook Islands,CK
+Saint Lucy,Saint Lucy,Barbados,BB
+Saint Elizabeth Parish,Saint Elizabeth,Jamaica,JM
+Criuleni District,Criuleni,Moldova,MD
+Mogilev Region,Mogilev,Belarus,BY
+Krasnoyarsk Krai,Krasnoyarsk,Russia,RU
+Vaslui County,Vaslui,Romania,RO
+Saratov Oblast,Saratov,Russia,RU
+Kabardino-Balkaria,Kabardin-Balkar,Russia,RU
+Bender,Bender,Moldova,MD
+Wallis and Futuna,,France,FR
+Tulcea County,Tulcea,Romania,RO
+Teleorman County,Teleorman,Romania,RO
+Guarda District,Guarda,Portugal,PT
+Castelo Branco District,Castelo Branco,Portugal,PT
+North Ossetia-Alania,North Ossetia,Russia,RU
+Glodeni District,Glodeni,Moldova,MD
+Kaliningrad Oblast,Kaliningrad,Russia,RU
+Saint Mary Cayon,Saint Mary Cayon,Saint Kitts and Nevis,KN
+Braganca,Bragança,Portugal,PT
+Cascade,Cascade,Seychelles,SC
+Leeward Islands,Leeward Islands,Clipperton Island,PF
+Warwick Parish,Warwick,Bermuda,BM
+Briceni District,Briceni,Moldova,MD
+Vrancea County,Vrancea,Romania,RO
+Trelawny Parish,Trelawny,Jamaica,JM
+Koboko District,Koboko,Uganda,UG
+Niutao,,Tuvalu,TV
+Kaluga Oblast,Kaluga,Russia,RU
+Astrakhan Oblast,Astrakhan',Russia,RU
+Khabarovsk Krai,Khabarovsk,Russia,RU
+Belgorod Oblast,Belgorod,Russia,RU
+Khanty-Mansi Autonomous Okrug,Khanty-Mansiy,Russia,RU
+Komi Republic,Komi,Russia,RU
+Chechnya,Chechnya,Russia,RU
+Buryatia,Buryat,Russia,RU
+Kirov Oblast,Kirov,Russia,RU
+Kemerovo Oblast,Kemerovo,Russia,RU
+Svalbard and Jan Mayen,,Norway,NO
+Quinara Region,Quinara,Guinea-Bissau,GW
+Cantemir District,Cantemir,Moldova,MD
+Vaitupu,,Tuvalu,TV
+Novgorod Oblast,Novgorod,Russia,RU
+Rezina District,Rezina,Moldova,MD
+Skåne County,Skåne,Sweden,SE
+Samara Oblast,Samara,Russia,RU
+Pskov Oblast,Pskov,Russia,RU
+Oryol Oblast,Orel,Russia,RU
+Sîngerei District,Sîngerei,Moldova,MD
+Yaroslavl Oblast,Yaroslavl',Russia,RU
+Volgograd Oblast,Volgograd,Russia,RU
+Tula Oblast,Tula,Russia,RU
+Tatarstan,Tatarstan,Russia,RU
+Stavropol Krai,Stavropol',Russia,RU
+Sakha Republic,Sakha (Yakutia),Russia,RU
+Orenburg Oblast,Orenburg,Russia,RU
+Nizhny Novgorod Oblast,Nizhegorod,Russia,RU
+Murmansk Oblast,Murmansk,Russia,RU
+Lipetsk Oblast,Lipetsk,Russia,RU
+Irkutsk Oblast,Irkutsk,Russia,RU
+Chelyabinsk Oblast,Chelyabinsk,Russia,RU
+Bashkortostan,Bashkortostan,Russia,RU
+Altai Krai,,Russia,RU
+Voronezh Oblast,Voronezh,Russia,RU
+Cayman Brac,,Cayman Islands,KY
+Negotino Municipality,Negotino,Macedonia,MK
+Bogdanci Municipality,Bogdanci,Macedonia,MK
+Nichollstown and Berry Islands,,Bahamas,BS
+Guna Yala,Kuna Yala,Panama,PA
+Saint Paul Parish,Saint Paul,Dominica,DM
+Amur Oblast,Amur,Russia,RU
+Saint Thomas,Saint Thomas,"Virgin Islands, U.S.",VI
+Sandys Parish,Sandys,Bermuda,BM
+Ogooué-Ivindo Province,Ogooué-Ivindo,Gabon,GA
+Jalal-Abad Region,Jalal-Abad,Kyrgyzstan,KG
+Serravalle,Serravalle,San Marino,SM
+Moscow Oblast,Moskovsskaya,Russia,RU
+Obock Region,Obock,Djibouti,DJ
+Martinique,Martinique,France,FR
+Brest Region,Brest,Belarus,BY
+Lékoumou Department,Lékoumou,"Congo, Republic of the",CG
+Saint Peter Basseterre,Saint Peter Basseterre,Saint Kitts and Nevis,KN
+Ialoveni District,Ialoveni,Moldova,MD
+Gagauzia,Comrat,Moldova,MD
+Tver Oblast,Tver',Russia,RU
+Sirdaryo Region,Sirdaryo,Uzbekistan,UZ
+Auckland Region,Auckland,New Zealand,NZ
+Makedonska Kamenica Municipality,Makedonska Kamenica,Macedonia,MK
+Salyan District,Salyan,Azerbaijan,AZ
+Andrijevica Municipality,Andrijevica,Montenegro,ME
+Danilovgrad Municipality,Danilovgrad,Montenegro,ME
+Hanover Parish,Hanover,Jamaica,JM
+Novosibirsk Oblast,Novosibirsk,Russia,RU
+Dagestan,Dagestan,Russia,RU
+Tafea Province,Tafea,Vanuatu,VU
+Noumbiel,Noumbiel,Burkina Faso,BF
+Ganzourgou,Ganzourgou,Burkina Faso,BF
+Glacis,Glacis,Seychelles,SC
+Olomouc Region,Olomoucký,Czech Republic,CZ
+Pardubice Region,Pardubický,Czech Republic,CZ
+Hajdú-Bihar County,Hajdú-Bihar,Hungary,HU
+South Eastern Region,,Malta,MT
+Minsk Region,Minsk,Belarus,BY
+Podlaskie Voivodeship,Podlachian,Poland,PL
+Ilfov County,Ilfov,Romania,RO
+Zuid-Holland,Zuid-Holland,Netherlands,NL
+Southeast Slovenia Statistical Region,,Slovenia,SI
+Basarabeasca District,Basarabeasca,Moldova,MD
+Taraclia District,Taraclia,Moldova,MD
+Saraj Municipality,Saraj,Macedonia,MK
+Portalegre District,Portalegre,Portugal,PT
+Gelderland,Gelderland,Netherlands,NL
+Ida-Viru County,Ida-Viru,Estonia,EE
+Gozo,"Fontana, Gozo",Malta,MT
+Plasnica Municipality,Plasnica,Macedonia,MK
+Tartu County,Tartu,Estonia,EE
+Uusimaa,Uusimaa,Finland,FI
+Noord-Holland,Noord-Holland,Netherlands,NL
+Kratovo Municipality,Kratovo,Macedonia,MK
+Central Sava Statistical Region,,Slovenia,SI
+Semigallia,,Latvia,LV
+Utrecht,Utrecht,Netherlands,NL
+Friesland,Friesland,Netherlands,NL
+Lääne-Viru County,Lääne-Viru,Estonia,EE
+Gazi Baba Municipality,Gazi Baba,Macedonia,MK
+Vidzeme,Cesu,Latvia,LV
+Northern Ostrobothnia,Northern Ostrobothnia,Finland,FI
+Kurzeme Region,Rucavas,Latvia,LV
+Drenthe,Drenthe,Netherlands,NL
+Utena County,Utenos,Lithuania,LT
+Demir Hisar Municipality,Demir Hisar,Macedonia,MK
+Sabirabad District,Sabirabad,Azerbaijan,AZ
+Latgale,Rezeknes,Latvia,LV
+Kisela Voda Municipality,Kisela Voda,Macedonia,MK
+Pirkanmaa,Pirkanmaa,Finland,FI
+Bayamón,,Puerto Rico,PR
+Petnjica Municipality,,Montenegro,ME
+Rosoman Municipality,Rosoman,Macedonia,MK
+Groningen,Groningen,Netherlands,NL
+US Virgin Islands,,US Virgin Islands,VI
+Pärnu County,Pärnu,Estonia,EE
+Demir Kapija Municipality,Demir Kapija,Macedonia,MK
+Dolneni Municipality,Dolneni,Macedonia,MK
+Zeeland,Zeeland,Netherlands,NL
+Dalarna County,Dalarna,Sweden,SE
+Alytus County,,Lithuania,LT
+Stockholm County,Stockholm,Sweden,SE
+Pohjois-Savo,Northern Savonia,Finland,FI
+Jõgeva County,Jõgeva,Estonia,EE
+Eschen,Eschen,Liechtenstein,LI
+Vaduz,Vaduz,Liechtenstein,LI
+Schaan,Schaan,Liechtenstein,LI
+Central Denmark Region,Midtjylland,Denmark,DK
+Municipality of Butel,Butel Municipality,Macedonia,MK
+Butel Municipality,Butel,Macedonia,MK
+Qusar District,Qusar,Azerbaijan,AZ
+Makedonski Brod Municipality,Brod,Macedonia,MK
+Võru County,Võru,Estonia,EE
+Southern Ostrobothnia,Southern Ostrobothnia,Finland,FI
+Västra Götaland County,Västra Götaland,Sweden,SE
+Ostrobothnia,Ostrobothnia,Finland,FI
+Östergötland County,Östergötland,Sweden,SE
+Zealand Region,Sjaælland,Denmark,DK
+Södermanland County,Södermanland,Sweden,SE
+Rapla County,Rapla,Estonia,EE
+Molise,,Italy,IT
+Buskerud,Buskerud,Norway,NO
+Järva County,Järva,Estonia,EE
+Balzers,Balzers,Liechtenstein,LI
+Oslo,Oslo,Norway,NO
+Ponce,,Puerto Rico,PR
+Ilinden Municipality,Ilinden,Macedonia,MK
+Gradsko Municipality,Gradsko,Macedonia,MK
+Region of Southern Denmark,Syddanmark,Denmark,DK
+Jegunovce Municipality,Jegunovce,Macedonia,MK
+Waikato,Waikato,New Zealand,NZ
+Canterbury,Canterbury,New Zealand,NZ
+Põlva County,Põlva,Estonia,EE
+Etelä-Savo,Southern Savonia,Finland,FI
+Møre og Romsdal,Møre og Romsdal,Norway,NO
+Dojran Municipality,Dojran,Macedonia,MK
+Västmanland County,Västmanland,Sweden,SE
+Yauco,,Puerto Rico,PR
+Viljandi County,Viljandi,Estonia,EE
+Lääne County,Lääne,Estonia,EE
+Saare County,Saare,Estonia,EE
+Uppsala County,Uppsala,Sweden,SE
+Triesenberg,Triesenberg,Liechtenstein,LI
+Neftchala District,Neftçala,Azerbaijan,AZ
+Goygol District,Xanlar,Azerbaijan,AZ
+Naftalan,Naftalan,Azerbaijan,AZ
+Saint John,Saint John,Grenada,GD
+Valga County,Valga,Estonia,EE
+Astara District,Astara,Azerbaijan,AZ
+Zanzibar Central,Zanzibar South and Central,Tanzania,TZ
+Saint Joseph,Saint Joseph,Barbados,BB
+Rankovce Municipality,Rankovce,Macedonia,MK
+Goranboy District,Goranboy,Azerbaijan,AZ
+Sar-e Pol Province,Sari Pul,Afghanistan,AF
+Southwest Finland,,Finland,FI
+Central Finland,Central Finland,Finland,FI
+Satakunta,Satakunta,Finland,FI
+Capital Region,Höfuðborgarsvæði,Iceland,IS
+Qazakh District,Qazax,Azerbaijan,AZ
+Lapland,Lapland,Finland,FI
+Otago,Otago,New Zealand,NZ
+Saint Mary Parish,Saint Mary,Antigua and Barbuda,AG
+Kymenlaakso,Kymenlaakso,Finland,FI
+South Karelia,South Karelia,Finland,FI
+Fuzuli District,Füzuli,Azerbaijan,AZ
+Bay of Plenty Region,Bay of Plenty,New Zealand,NZ
+Zanzibar North,Kaskazini-Unguja,Tanzania,TZ
+Kainuu,Kainuu,Finland,FI
+Tavastia Proper,Tavastia Proper,Finland,FI
+Central Ostrobothnia,Central Ostrobothnia,Finland,FI
+Yamagata Prefecture,Yamagata,Japan,JP
+North Karelia,North Karelia,Finland,FI
+Mayagüez,,Puerto Rico,PR
+Päijät-Häme,Päijät-Häme,Finland,FI
+Troms,Troms,Norway,NO
+Nelson Province,Nelson City,New Zealand,NZ
+Hajigabul District,Hajigabul,Azerbaijan,AZ
+Wellington Region,Wellington,New Zealand,NZ
+Akershus,Akershus,Norway,NO
+Sør-Trøndelag,Sør-Trøndelag,Norway,NO
+Zug,Zug,Switzerland,CH
+Blekinge County,Blekinge,Sweden,SE
+Jönköping County,Jönköping,Sweden,SE
+Zelenikovo Municipality,Zelenikovo,Macedonia,MK
+Anseba Region,Semenawi Keyih Bahri,Eritrea,ER
+Isabel Province,Isabel,Solomon Islands,SB
+Western District,Western,American Samoa,AS
+Dublin,Dublin,Ireland,IE
+Donegal,Donegal,Ireland,IE
+Carlow,Carlow,Ireland,IE
+County Longford,Longford,Ireland,IE
+Kingston Parish,Kingston,Jamaica,JM
+Saint Luke Parish,Saint Luke,Dominica,DM
+Anse Boileau,Anse Boileau,Seychelles,SC
+Anse Royale,Anse Royale,Seychelles,SC
+Nkhata Bay District,Nkhata Bay,Malawi,MW
+Austral Islands,Austral Islands,Clipperton Island,PF
+Capital Region of Denmark,,Denmark,DK
+Rogaland,Rogaland,Norway,NO
+North Denmark Region,Nordjylland,Denmark,DK
+Hordaland,Hordaland,Norway,NO
+Örebro County,Orebro,Sweden,SE
+Vestfold,Vestfold,Norway,NO
+Manawatu-Wanganui,Manawatu-Wanganui,New Zealand,NZ
+Østfold,Østfold,Norway,NO
+Nordland,Nordland,Norway,NO
+Norrbotten County,Norrbotten,Sweden,SE
+Värmland County,Värmland,Sweden,SE
+Hawke's Bay,Hawke's Bay,New Zealand,NZ
+Kronoberg County,Kronoberg,Sweden,SE
+Västerbotten County,Västerbotten,Sweden,SE
+Västernorrland County,Västernorrland,Sweden,SE
+Australian Capital Territory,Jervis Bay Territory,Ashmore and Cartier Islands,AU
+Taranaki,Taranaki,New Zealand,NZ
+Kalmar County,Kalmar,Sweden,SE
+Nord-Trøndelag,Nord-Trøndelag,Norway,NO
+Saga Prefecture,Saga,Japan,JP
+Northland Region,Northland,New Zealand,NZ
+Gävleborg County,Gävleborg,Sweden,SE
+Shimane Prefecture,Shimane,Japan,JP
+Akita Prefecture,Akita,Japan,JP
+Caguas,,Puerto Rico,PR
+Oppland,Oppland,Norway,NO
+Vest-Agder,Vest-Agder,Norway,NO
+Telemark,Telemark,Norway,NO
+Nova Scotia,Nova Scotia,Canada,CA
+New Brunswick,New Brunswick,Canada,CA
+Thurgau,Thurgau,Switzerland,CH
+Northeastern Region,Norðurland eystra,Iceland,IS
+Hedmark,Hedmark,Norway,NO
+Tasmania,Tasmania,Ashmore and Cartier Islands,AU
+Gisborne District,Gisborne District,New Zealand,NZ
+Aust-Agder,Aust-Agder,Norway,NO
+Miyazaki Prefecture,Miyazaki,Japan,JP
+Carolina,South Carolina,United States,US
+Jämtland County,Jämtland,Sweden,SE
+Fukui Prefecture,Fukui,Japan,JP
+Toa Baja,,Puerto Rico,PR
+Graubünden,Graubünden,Switzerland,CH
+Southland,Southland,New Zealand,NZ
+Barranquitas,,Puerto Rico,PR
+Gamprin,Gamprin,Liechtenstein,LI
+San Sebastián,,Puerto Rico,PR
+Juana Díaz,,Puerto Rico,PR
+Sogn og Fjordane,Sogn og Fjordane,Norway,NO
+Schaffhausen,Schaffhausen,Switzerland,CH
+Southern Peninsula,Suðurnes,Iceland,IS
+Amolatar District,Amolatar,Uganda,UG
+Oio Region,Oio,Guinea-Bissau,GW
+Ujar District,Ucar,Azerbaijan,AZ
+Aosta Valley,Aoste,Italy,IT
+Humacao,,Puerto Rico,PR
+Bosilovo Municipality,Bosilovo,Macedonia,MK
+Petrovec Municipality,,Macedonia,MK
+Jura,Jura,Switzerland,CH
+Tottori Prefecture,Tottori,Japan,JP
+Lares,,Puerto Rico,PR
+Finnmark,Finnmark,Norway,NO
+Vasilevo Municipality,Vasilevo,Macedonia,MK
+San Lorenzo,San Lawrenz,Malta,MT
+Canóvanas,,Puerto Rico,PR
+Guaynabo,,Puerto Rico,PR
+Aguadilla,,Puerto Rico,PR
+Río Grande,Rio Grande do Sul,Brazil,BR
+Juncos,,Puerto Rico,PR
+Basel-Landschaft,Basel-Landschaft,Switzerland,CH
+Åland Islands,,Finland,FI
+Moca,,Puerto Rico,PR
+Corozal,Corozal,Belize,BZ
+Camuy,,Puerto Rico,PR
+Arecibo,,Puerto Rico,PR
+Yabucoa,,Puerto Rico,PR
+Fajardo,,Puerto Rico,PR
+Marlborough Region,Marlborough District,New Zealand,NZ
+Dorado,,Puerto Rico,PR
+Trujillo Alto,,Puerto Rico,PR
+Cataño,,Puerto Rico,PR
+Canton of Glarus,Glarus,Switzerland,CH
+Gotland County,Gotland,Sweden,SE
+Canton of Nidwalden,Nidwalden,Switzerland,CH
+Nidwalden,Nidwalden,Switzerland,CH
+Manatí,,Puerto Rico,PR
+Luquillo,,Puerto Rico,PR
+Newfoundland and Labrador,Newfoundland and Labrador,Canada,CA
+Hatillo,,Puerto Rico,PR
+Ruggell,Ruggell,Liechtenstein,LI
+Zrnovci Municipality,Zrnovci,Macedonia,MK
+Orocovis,,Puerto Rico,PR
+Isabela,Isabela,Philippines,PH
+Pemba South,Kusini-Pemba,Tanzania,TZ
+San Blas,,Panama,PA
+Aguas Buenas,,Puerto Rico,PR
+Arroyo,,Puerto Rico,PR
+Naguabo,,Puerto Rico,PR
+Cabo Rojo,,Puerto Rico,PR
+Guánica,,Puerto Rico,PR
+Comerío,,Puerto Rico,PR
+Cidra,,Puerto Rico,PR
+Añasco,,Puerto Rico,PR
+Bakool,Bakool,Somalia,SO
+Norfolk Island,Norfolk Island,Norfolk Island,NF
+Bryansk Oblast,Bryansk,Russia,RU
+Lower River Division,Lower River,"Gambia, The",GM
+Adygea,Adygey,Russia,RU
+Omsk Oblast,Omsk,Russia,RU
+Ingushetia,Ingush,Russia,RU
+Udmurtia,Udmurt,Russia,RU
+Streymoy,,Faroe Islands,FO
+Nyanga Province,Nyanga,Gabon,GA
+Ombella-Mpoko,Ombella-M'Poko,Central African Republic,CF
+Sembabule District,Sembabule,Uganda,UG
+Limerick,Limerick,Ireland,IE
+County Cork,Cork,Ireland,IE
+Amuru District,Amuru,Uganda,UG
+Galway,Galway,Ireland,IE
+County Westmeath,Westmeath,Ireland,IE
+Nanumanga,,Tuvalu,TV
+County Mayo,Mayo,Ireland,IE
+Perm Krai,Perm',Russia,RU
+Amuria District,Amuria,Uganda,UG
+Kaliro District,Kaliro,Uganda,UG
+Waterford,Waterford,Ireland,IE
+Apac District,Apac,Uganda,UG
+Namutumba District,Namutumba,Uganda,UG
+San Germán,,Puerto Rico,PR
+Aguada,,Puerto Rico,PR
+Las Piedras,,Puerto Rico,PR
+Vega Alta,,Puerto Rico,PR
+Kalangala District,Kalangala,Uganda,UG
+Kerry,Kerry,Ireland,IE
+County Louth,Louth,Ireland,IE
+Daejeon,Daejeon,"Korea, South",KR
+Cavan,Cavan,Ireland,IE
+Makira-Ulawa Province,Makira,Solomon Islands,SB
+Brava,Brava,Cape Verde,CV
+Ziro,Ziro,Burkina Faso,BF
+Likouala Department,Likouala,"Congo, Republic of the",CG
+Lajas,,Puerto Rico,PR
+Gnagna,Gnagna,Burkina Faso,BF
+Qinghai,Qinghai,China,CN
+Kanem Region,Kanem,Chad,TD
+Chari-Baguirmi Region,Chari-Baguirmi,Chad,TD
+Pemba North,Kaskazini-Pemba,Tanzania,TZ
+Budaka District,Budaka,Uganda,UG
+Sironko District,Sironko,Uganda,UG
+Bulisa District,Buliisa,Uganda,UG
+Vega Baja,,Puerto Rico,PR
+Tambov Oblast,Tambov,Russia,RU
+Kursk Oblast,Kursk,Russia,RU
+Wexford,Wexford,Ireland,IE
+Salinas,,Puerto Rico,PR
+Guayama,,Puerto Rico,PR
+Rincón,,Puerto Rico,PR
+Villalba,,Puerto Rico,PR
+Utuado,,Puerto Rico,PR
+Nuristan Province,Nuristan,Afghanistan,AF
+Mordovia,Mordovia,Russia,RU
+Malampa Province,Malampa,Vanuatu,VU
+Lozovo Municipality,Lozovo,Macedonia,MK
+Trinity Palmetto Point,Trinity Palmetto Point,Saint Kitts and Nevis,KN
+Samukh District,Samux,Azerbaijan,AZ
+Devonshire Parish,Devonshire,Bermuda,BM
+St. George's Parish,,Bermuda,BM
+Southampton Parish,Southampton,Bermuda,BM
+Naouri,Nahouri,Burkina Faso,BF
+Kaberamaido District,Kaberamaido,Uganda,UG
+Oyam District,Oyam,Uganda,UG
+Katakwi District,Katakwi,Uganda,UG
+Yumbe District,Yumbe,Uganda,UG
+Quebradillas,,Puerto Rico,PR
+Cayey,,Puerto Rico,PR
+Coamo,,Puerto Rico,PR
+Sabana Grande,,Puerto Rico,PR
+County Tipperary,North Tipperary,Ireland,IE
+Morovis,,Puerto Rico,PR
+Aibonito,,Puerto Rico,PR
+Barceloneta,,Puerto Rico,PR
+Gurabo,,Puerto Rico,PR
+Adjuntas,,Puerto Rico,PR
+Guayanilla,,Puerto Rico,PR
+Peñuelas,,Puerto Rico,PR
+Patillas,,Puerto Rico,PR
+Naranjito,,Puerto Rico,PR
+Kildare,Kildare,Ireland,IE
+County Clare,Clare,Ireland,IE
+Vieques,,Puerto Rico,PR
+Ciales,,Puerto Rico,PR
+Santa Isabel,,Puerto Rico,PR
+Ceiba,,Puerto Rico,PR
+Jayuya,,Puerto Rico,PR
+County Meath,Meath,Ireland,IE
+Hormigueros,,Puerto Rico,PR
+Wicklow,Wicklow,Ireland,IE
+County Offaly,Offaly,Ireland,IE
+County Laois,Laoighis,Ireland,IE
+Kilkenny,Kilkenny,Ireland,IE
+Loíza,,Puerto Rico,PR
+Maunabo,,Puerto Rico,PR
+Sligo,Sligo,Ireland,IE
+County Monaghan,Monaghan,Ireland,IE
+Jeju-do,Jeju,"Korea, South",KR
+Roscommon,Roscommon,Ireland,IE
+County Leitrim,Leitrim,Ireland,IE
+Ulyanovsk Oblast,Ul'yanovsk,Russia,RU
+Maricao,,Puerto Rico,PR
+Penza Oblast,Penza,Russia,RU
+Harbour Island,Harbour Island,"Bahamas, The",BS
+Marquesas Islands,Marquesas Islands,Clipperton Island,PF
+Vologda Oblast,Vologda,Russia,RU
+Vladimir Oblast,Vladimir,Russia,RU
+Tyumen Oblast,Tyumen',Russia,RU
+Smolensk Oblast,Smolensk,Russia,RU
+Kamchatka Krai,Kamchatka,Russia,RU
+Republic of Karelia,Karelia,Russia,RU
+West Coast,West Coast,"Gambia, The",GM
+Culebra,,Puerto Rico,PR
+Tomsk Oblast,Tomsk,Russia,RU
+Bukwo District,Bukwa,Uganda,UG
+Sakhalin Oblast,Sakhalin,Russia,RU
+Nakapiripirit District,Nakapiripirit,Uganda,UG
+Mchinji District,Mchinji,Malawi,MW
+Butaleja District,Butaleja,Uganda,UG
+Maracha District,Maracha,Uganda,UG
+Ryazan Oblast,Ryazan',Russia,RU
+Phalombe District,Phalombe,Malawi,MW
+Eysturoy,Eysturoyar,Faroe Islands,FO
+Mwanza District,Mwanza,Malawi,MW
+Kostroma Oblast,Kostroma,Russia,RU
+Chuvashia,Chuvash,Russia,RU
+Ivanovo Oblast,Ivanovo,Russia,RU
+Îles Tuamotu-Gambier,,French Polynesia,PF
+Takamaka,Takamaka,Seychelles,SC
+Chitipa District,Chitipa,Malawi,MW
+West Coast Division ,West Coast,"Gambia, The",GM
+Sangha Department ,Sangha,"Congo, Republic of the",CG
+Kavango West,,Namibia,NA
+T'bilisi,Tbilisi,Georgia,GE
+Yamalo-Nenets Autonomous Okrug,Yamal-Nenets,Russia,RU
+Mari El,Mariy-El,Russia,RU
+Arkhangelsk Oblast,Arkhangel'sk,Russia,RU
+Leningrad Oblast,Leningrad,Russia,RU
+Kalmykia,Kalmyk,Russia,RU
+Tuva,Tuva,Russia,RU
+Zabaykalsky Krai,Chita,Russia,RU
+Lankaran,Lankaran,Azerbaijan,AZ
+Kurgan Oblast,Kurgan,Russia,RU
+Karachay-Cherkessia,Karachay-Cherkess,Russia,RU
+Sheki,Prague,Czech Republic,CZ
+Khakassia,Khakass,Russia,RU
+Magadan Oblast,Maga Buryatdan,Russia,RU
+Borgo Maggiore,Borgo Maggiore,San Marino,SM
+Altai Republic,Gorno-Altay,Russia,RU
+Skierniewice,,Poland,PL
+Novo Selo Municipality,Novo Selo,Macedonia,MK
+Jewish Autonomous Oblast,Yevrey,Russia,RU
+Nenets Autonomous Okrug,Nenets,Russia,RU
+Barbuda,Barbuda,Antigua and Barbuda,AG
+Sud-Bandama,Sud-Bandama,Cote d'Ivoire,CI
+N'zi-Comoé,N'zi-Comoé,Cote d'Ivoire,CI
+Toledo,Toledo,Belize,BZ
+Southern District ,HaDarom,Israel,IL
+Leeward Islands ,Leeward Islands,Clipperton Island,PF
+South Cotabato,General Santos,Philippines,PH
+Moyen-Cavally,Cavally,Cote d'Ivoire,CI
+Agnéby,Agnéby,Cote d'Ivoire,CI
+Worodougou,Worodougou,Cote d'Ivoire,CI
+Marahoué,Marahoué,Cote d'Ivoire,CI
+Yala,Yala,Thailand,TH
+Middle Juba,Jubbada Dhexe,Somalia,SO
+Taiwan,Taoyuan,Taiwan,TW
+Taoyuan,Taoyuan,Taiwan,TW
+Uaboe District,Uaboe,Nauru,NR
+Rumphi District,Rumphi,Malawi,MW
+Marsh Harbour,,Bahamas,BS
+Negros Occidental,Negros Occidental,Philippines,PH
+Oudalan,Oudalan,Burkina Faso,BF
+Dowa District,Dowa,Malawi,MW
+Manafwa District,Manafwa,Uganda,UG
+Oubritenga,Oubritenga,Burkina Faso,BF
+Debub Region,Debub,Eritrea,ER
+Loroum,Loroum,Burkina Faso,BF
+Toa Alta,,Puerto Rico,PR
+"Washington, District of Columbia",Washington D. C.,United States,US
+Washington D. C.,District of Columbia,United States,US
+Alaska,Alaska,United States,US
+Bududa District,Bududa,Uganda,UG
+Dokolo District,Dokolo,Uganda,UG
+Bimini,Bimini,"Bahamas, The",BS
+Chikwawa District,Chikwawa,Malawi,MW
+Thyolo District,Thyolo,Malawi,MW
+Tapoa,Tapoa,Burkina Faso,BF
+Namayingo District,Namayingo,Uganda,UG
+Grand Cape Mount County,Grand Cape Mount,Liberia,LR
+Pointe La Rue,Pointe La Rue,Seychelles,SC
+Bafing,Bafing,Cote d'Ivoire,CI
+Margibi County,Margibi,Liberia,LR
+Ewa District,Ewa,Nauru,NR
+Grand Kru County,Grand Kru,Liberia,LR
+Saint Louis,Saint Louis,Seychelles,SC
+Biombo Region,Biombo,Guinea-Bissau,GW
+Muramvya Province,Muramvya,Burundi,BI
+South Dakota,South Dakota,United States,US
+Maine,Maine,United States,US
+Anabar District,Anabar,Nauru,NR
+Mwaro Province,Mwaro,Burundi,BI
+Prince Edward Island,Prince Edward Island,Canada,CA
+Neno District,Neno,Malawi,MW
+Delaware,Delaware,United States,US
+Municipality of Aerodrom,Aerodrom Municipality,Macedonia,MK
+Aerodrom Municipality,Aerodrom,Macedonia,MK
+Kjosarsysla,,Iceland,IS
+Pella,,Greece,GR
+Smith's Parish,Smith's,Bermuda,BM
+Tasman District,Tasman District,New Zealand,NZ
+Pembroke Parish,Pembroke,Bermuda,BM
+Rhode Island,Rhode Island,United States,US
+West Virginia,West Virginia,United States,US
+Lerik District,Lerik,Azerbaijan,AZ
+Appenzell Ausserrhoden,Appenzell Ausserrhoden,Switzerland,CH
+Yevlakh,Yevlakh Rayon,Azerbaijan,AZ
+Westfjords,Vestfirðir,Iceland,IS
+Montana,Montana,Bulgaria,BG
+New Hampshire,New Hampshire,United States,US
+Mogila Municipality,Mogila,Macedonia,MK
+Lachin District,,Azerbaijan,AZ
+Paget Parish,Paget,Bermuda,BM
+Hiiu County,Hiiu,Estonia,EE
+Exuma,Exuma,"Bahamas, The",BS
+Saint Paul Capisterre,Saint Paul Capesterre,Saint Kitts and Nevis,KN
+Long Island,Long Island,"Bahamas, The",BS
+Fokis,,Greece,GR
+Rock Sound,,Bahamas,BS
+Green Turtle Cay,,Bahamas,BS
+Governor's Harbour,,Bahamas,BS
+Novaci Municipality,Novaci,Macedonia,MK
+Vaavu Atoll,Vaavu,Maldives,MV
+Nunavut,Nunavut,Canada,CA
+Namentenga,Namentenga,Burkina Faso,BF
+Ntchisi District,Ntchisi,Malawi,MW
+Bazega,Bazéga,Burkina Faso,BF
+Saint Lawrence,San Lawrenz,Malta,MT
+Vágar,,Faroe Islands,FO
+Debarca Municipality,Debarca,Macedonia,MK
+Saint Saviour,,Jersey,JE
+Scrub Island,,Anguilla,AI
+Bolama Region,Bolama,Guinea-Bissau,GW
+Raymah Governorate,Raymah,Yemen,YE
+Sandy Bay,,Saint Helena,SH
+Chiradzulu District,Chiradzulu,Malawi,MW
+Nui,,Tuvalu,TV
+Anibare District,Meneng,Nauru,NR
+Niuas,Niuas,Tonga,TO
+Icel,Mersin,Turkey,TR
+Northwestern Region,Norðurland vestra,Iceland,IS
+Saint James Windward,Saint James Windward,Saint Kitts and Nevis,KN
+Saint Thomas Middle Island,Saint Thomas Middle Island,Saint Kitts and Nevis,KN
+Gobustan District,Qobustan,Azerbaijan,AZ
+Bacolod,Bacolod,Philippines,PH
+Saint Thomas Lowland,Saint Thomas Lowland,Saint Kitts and Nevis,KN
+Canton of Obwalden,Obwalden,Switzerland,CH
+Obwalden,Obwalden,Switzerland,CH
+Saint Anne Sandy Point,Saint Anne Sandy Point,Saint Kitts and Nevis,KN
+Uri,Uri,Switzerland,CH
+Mbomou,Mbomou,Central African Republic,CF
+Rivercess County,River Cess,Liberia,LR
+Central Province ,HaMerkaz,Israel,IL
+Zondoma,Zondoma,Burkina Faso,BF
+Saint Brélade,,Jersey,JE
+Saint Clement,,Jersey,JE
+Karbinci Municipality,Karbinci,Macedonia,MK
+North Province,Nord,New Caledonia,NC
+Grouville,,Jersey,JE
+Saint Ouen,,Jersey,JE
+Saint George Gingerland,Saint George Gingerland,Saint Kitts and Nevis,KN
+Acquaviva,Acquaviva,San Marino,SM
+Trinity,Trinity Palmetto Point,Saint Kitts and Nevis,KN
+Norðoyar,,Faroe Islands,FO
+Saint Mary,Saint Mary,Antigua and Barbuda,AG
+Berane Municipality,Berane,Montenegro,ME
+Saint John Capisterre,Saint John Capesterre,Saint Kitts and Nevis,KN
+Suðuroy,,Faroe Islands,FO
+Pool Department,Pool,"Congo, Republic of the",CG
+Yau Tsim Mong District,Yau Tsim Mong,Hong Kong,HK
+Tuen Mun District,Tuen Mun,Hong Kong,HK
+Cuvette Department,Cuvette,"Congo, Republic of the",CG
+Yagha,Yagha,Burkina Faso,BF
+Nayala,Nayala,Burkina Faso,BF
+Kompienga,Kompienga,Burkina Faso,BF
+Koulpelogo,Koulpélogo,Burkina Faso,BF
+Komondjari,Komondjari,Burkina Faso,BF
+Plateaux Department ,Plateaux,"Congo, Republic of the",CG
+Tombali Region,Tombali,Guinea-Bissau,GW
+Kouilou Department,Kouilou,"Congo, Republic of the",CG
+Wyoming,Wyoming,United States,US
+North Dakota,North Dakota,United States,US
+Kemo,Kémo,Central African Republic,CF
+Cuvette-Ouest Department,Cuvette-Ouest,"Congo, Republic of the",CG
+Basse-Kotto,Basse-Kotto,Central African Republic,CF
+Bamingui-Bangoran,Bamingui-Bangoran,Central African Republic,CF
+Sham Shui Po District,Sham Shui Po,Hong Kong,HK
+Fresh Creek,,Bahamas,BS
+Muchinga Province,Muchinga,Zambia,ZM
+Kuna de Wargandí,,Panama,PA
+Las Marías,,Puerto Rico,PR
+Northwest Territories,Northwest Territories,Canada,CA
+Kourweogo,Kourwéogo,Burkina Faso,BF
+Longwood,,Saint Helena,SH
+Tacloban,Tacloban,Philippines,PH
+Kyiv,Kiev,Ukraine,UA
+Chukotka Autonomous Okrug,Chukchi Autonomous Okrug,Russia,RU
+Vatican City,Vatican,Vatican City,VA
+Yukon,Yukon,Canada,CA
+Little Cayman,,Cayman Islands,KY
+Christ Church Nichola Town,Christ Church Nichola Town,Saint Kitts and Nevis,KN
+Windward Islands ,Windward Islands,Clipperton Island,PF
+Batken Region,Batken,Kyrgyzstan,KG
+Torba Province,Torba,Vanuatu,VU
+Port Glaud,Port Glaud,Seychelles,SC
+Haut-Mbomou,Haut-Mbomou,Central African Republic,CF
+Kowloon City District,Kowloon City,Hong Kong,HK
+Sandy Point,Saint Anne Sandy Point,Saint Kitts and Nevis,KN
+Kaabong District,Kaabong,Uganda,UG
+Sheema District,Sheema,Uganda,UG
+Chiesanuova,Chiesanuova,San Marino,SM
+Penama Province,Penama,Vanuatu,VU
+Lienchiang,,Taiwan,TW
+Ijuw District,Ijuw,Nauru,NR
+Mitooma District,Mitooma,Uganda,UG
+High Rock,,Bahamas,BS
+Levelwood,,Saint Helena,SH
+Vermont,Vermont,United States,US
+Pegu,Bago,Myanmar,MM
+Negros Oriental,Negros Oriental,Philippines,PH
+Fiorentino,Fiorentino,San Marino,SM
+Domagnano,Domagnano,San Marino,SM
+Autonomous Republic of Crimea,Crimea,Russia,RU
